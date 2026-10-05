@@ -1,0 +1,15 @@
+CAMPUS BOWL : PUBLICATION SUR GITHUB PAGES
+
+1. Décompressez Campus-Bowl-GitHub-Pages.zip.
+2. Déposez tous les fichiers et dossiers extraits dans votre dépôt GitHub, en conservant leur organisation. Ne déposez pas seulement le ZIP.
+3. index.html doit être directement à la racine du dépôt. Conservez le fichier .nojekyll.
+4. Dans GitHub : Settings > Pages > Source : Deploy from a branch > Branch : main > dossier : / (root) > Save.
+5. Ouvrez l’adresse indiquée par GitHub lorsque la publication est terminée.
+
+Le site est prêt à publier, sans installation ni compilation.
+Les étudiants consultent le cas et les données, téléchargent le classeur et remettent un dossier écrit avec leur fichier Excel complété.
+Les 29 questions comportent une question et un attendu, sans les exemples ajoutés précédemment.
+Le corrigé formateur est exclu de cette archive.
+
+Documentation GitHub :
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site

@@ -1,0 +1,13 @@
+﻿commande;client;date;restaurant;canal;creneau;prix_avant_remise;remise;montant_paye;cout_variable;delai_min
+CB0023;C0012;2026-04-01;CAMPUS NORD;Click & collect;12 h–14 h;14,3;2,0;12,3;5,7;8
+CB0372;C0253;2026-04-01;Centre-ville;Click & collect;14 h–15 h;13,9;2,0;11,9;5,7;
+CB0391;C0272;2026-04-01;Centre-ville;À emporter;11 h–12 h;13,9;2,0;11,9;5,7;18
+CB0391;C0272;2026-04-01;Centre-ville;À emporter;11 h–12 h;13,9;2,0;11,9;5,7;18
+CB0400;C0281;31/04/2026;Campus Sud;Click & collect;11 h–12 h;12,0;2,0;10,0;5,7;8
+CB0496;C0337;2026-04-01;Campus Sud;À emporter;12 h–14 h;13,0;0,0;-12;5,7;9
+CB0185;;2026-04-02;Campus Nord;À emporter;12 h–14 h;12,8;2,0;10,8;4,8;7
+CB0778;;2026-04-02;Campus Nord;click_collect;11 h–12 h;12,8;0,0;12,8;4,5;7
+CB1052;;2026-04-02;Campus Sud;Click & collect;14 h–15 h;12,0;0,0;12,0;4,8;180
+CB0095;C0048;2026-04-04;Campus Nord;À emporter;11 h–12 h;12,3;0,0;12,3;4,8;6
+CB0115;C0058;2026-04-04;Campus Nord;Click & collect;14 h–15 h;13,8;2,0;11,8;5,4;8
+CB0156;C0086;2026-04-04;Campus Nord;À emporter;12 h–14 h;12,3;2,0;10,3;4,8;8

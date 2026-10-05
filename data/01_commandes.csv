@@ -1,0 +1,1061 @@
+﻿commande;client;date;restaurant;canal;creneau;prix_avant_remise;remise;montant_paye;cout_variable;delai_min
+CB0023;C0012;2026-04-01;Campus Nord;Click & collect;12 h–14 h;14,3;2,0;12,3;5,7;8
+CB0372;C0253;2026-04-01;Centre-ville;Click & collect;14 h–15 h;13,9;2,0;11,9;5,7;19
+CB0391;C0272;2026-04-01;Centre-ville;À emporter;11 h–12 h;13,9;2,0;11,9;5,7;18
+CB0400;C0281;2026-04-01;Campus Sud;Click & collect;11 h–12 h;12,0;2,0;10,0;5,7;8
+CB0496;C0337;2026-04-01;Campus Sud;À emporter;12 h–14 h;13,0;0,0;13,0;5,7;9
+CB0185;C0115;2026-04-02;Campus Nord;À emporter;12 h–14 h;12,8;2,0;10,8;4,8;7
+CB0778;;2026-04-02;Campus Nord;Click & collect;11 h–12 h;12,8;0,0;12,8;4,5;7
+CB1052;;2026-04-02;Campus Sud;Click & collect;14 h–15 h;12,0;0,0;12,0;4,8;9
+CB0095;C0048;2026-04-04;Campus Nord;À emporter;11 h–12 h;12,3;0,0;12,3;4,8;6
+CB0115;C0058;2026-04-04;Campus Nord;Click & collect;14 h–15 h;13,8;2,0;11,8;5,4;8
+CB0156;C0086;2026-04-04;Campus Nord;À emporter;12 h–14 h;12,3;2,0;10,3;4,8;8
+CB0186;C0116;2026-04-05;Campus Nord;Sur place;11 h–12 h;14,3;2,0;12,3;5,4;9
+CB0410;C0286;2026-04-05;Campus Sud;À emporter;11 h–12 h;14,5;2,0;12,5;5,7;5
+CB1037;;2026-04-05;Campus Sud;À emporter;11 h–12 h;12,0;0,0;12,0;4,5;9
+CB0263;C0164;2026-04-06;Centre-ville;Click & collect;11 h–12 h;13,9;2,0;11,9;5,7;7
+CB0385;C0266;2026-04-06;Centre-ville;À emporter;14 h–15 h;12,4;0,0;12,4;5,1;20
+CB0282;C0182;2026-04-07;Centre-ville;À emporter;12 h–14 h;12,9;0,0;12,9;4,5;14
+CB0394;C0275;2026-04-07;Centre-ville;À emporter;12 h–14 h;13,9;0,0;13,9;4,8;15
+CB0170;C0100;2026-04-08;Campus Nord;Sur place;14 h–15 h;13,3;0,0;13,3;4,8;7
+CB0220;C0142;2026-04-08;Centre-ville;Click & collect;11 h–12 h;13,4;0,0;13,4;5,7;6
+CB0348;C0229;2026-04-08;Centre-ville;À emporter;11 h–12 h;13,4;0,0;13,4;4,5;17
+CB0567;C0395;2026-04-08;Campus Sud;Sur place;11 h–12 h;11,0;0,0;11,0;5,4;18
+CB0790;;2026-04-08;Campus Nord;À emporter;11 h–12 h;10,3;0,0;10,3;5,7;7
+CB1042;;2026-04-08;Campus Sud;Click & collect;12 h–14 h;15,0;2,0;13,0;5,7;9
+CB0279;C0180;2026-04-09;Centre-ville;Click & collect;12 h–14 h;13,4;0,0;13,4;5,4;9
+CB0408;C0285;2026-04-09;Campus Sud;Sur place;11 h–12 h;12,0;2,0;10,0;4,5;5
+CB0540;C0371;2026-04-09;Campus Sud;Sur place;12 h–14 h;12,0;0,0;12,0;5,1;20
+CB0970;;2026-04-09;Centre-ville;À emporter;14 h–15 h;13,4;0,0;13,4;4,8;16
+CB0189;C0119;2026-04-10;Campus Nord;À emporter;14 h–15 h;11,3;0,0;11,3;5,4;6
+CB0278;C0179;2026-04-10;Centre-ville;Click & collect;11 h–12 h;14,4;2,0;12,4;4,8;9
+CB0941;;2026-04-10;Centre-ville;À emporter;14 h–15 h;13,4;0,0;13,4;4,8;17
+CB0150;C0080;2026-04-11;Campus Nord;Sur place;11 h–12 h;13,3;0,0;13,3;5,1;7
+CB0316;C0199;2026-04-11;Centre-ville;À emporter;14 h–15 h;13,4;2,0;11,4;4,5;20
+CB0361;C0242;2026-04-11;Centre-ville;Click & collect;11 h–12 h;13,9;2,0;11,9;5,7;17
+CB0422;C0292;2026-04-11;Campus Sud;Sur place;11 h–12 h;10,0;0,0;10,0;5,4;6
+CB0973;;2026-04-11;Centre-ville;Click & collect;11 h–12 h;11,4;0,0;11,4;5,1;16
+CB0173;C0103;2026-04-12;Campus Nord;À emporter;14 h–15 h;12,3;2,0;10,3;4,8;5
+CB0215;C0138;2026-04-12;Campus Nord;Click & collect;14 h–15 h;10,3;0,0;10,3;5,7;15
+CB0260;C0162;2026-04-12;Centre-ville;Click & collect;12 h–14 h;12,9;2,0;10,9;4,5;7
+CB0336;C0217;2026-04-12;Centre-ville;À emporter;14 h–15 h;13,4;0,0;13,4;4,8;15
+CB0434;C0298;2026-04-12;Campus Sud;Sur place;14 h–15 h;15,0;2,0;13,0;4,5;10
+CB0796;;2026-04-12;Campus Nord;À emporter;12 h–14 h;12,8;2,0;10,8;5,1;7
+CB0039;C0020;2026-04-13;Campus Nord;À emporter;14 h–15 h;10,3;0,0;10,3;5,7;10
+CB0043;C0022;2026-04-13;Campus Nord;Click & collect;12 h–14 h;10,3;0,0;10,3;5,1;5
+CB0221;C0142;2026-04-13;Centre-ville;Click & collect;11 h–12 h;12,9;0,0;12,9;4,5;17
+CB0428;C0295;2026-04-13;Campus Sud;Click & collect;12 h–14 h;13,5;2,0;11,5;4,5;8
+CB0351;C0232;2026-04-14;Centre-ville;À emporter;11 h–12 h;13,4;0,0;13,4;5,1;18
+CB0360;C0241;2026-04-14;Centre-ville;Sur place;14 h–15 h;13,9;2,0;11,9;5,1;18
+CB0513;C0354;2026-04-15;Campus Sud;À emporter;12 h–14 h;12,0;2,0;10,0;5,1;5
+CB0017;C0009;2026-04-16;Campus Nord;Sur place;11 h–12 h;13,3;2,0;11,3;5,1;6
+CB0161;C0091;2026-04-16;Campus Nord;Sur place;12 h–14 h;13,3;2,0;11,3;5,1;7
+CB0217;C0140;2026-04-16;Campus Nord;Click & collect;14 h–15 h;11,3;0,0;11,3;5,4;17
+CB0484;C0325;2026-04-16;Campus Sud;Click & collect;14 h–15 h;12,5;2,0;10,5;5,1;7
+CB0554;C0382;2026-04-16;Campus Sud;Sur place;11 h–12 h;12,0;0,0;12,0;4,5;16
+CB0145;C0075;2026-04-17;Campus Nord;À emporter;12 h–14 h;13,3;0,0;13,3;5,4;5
+CB0166;C0096;2026-04-17;Campus Nord;À emporter;12 h–14 h;11,8;0,0;11,8;4,5;10
+CB0116;C0058;2026-04-18;Campus Nord;Click & collect;12 h–14 h;10,8;0,0;10,8;5,4;8
+CB0544;C0373;2026-04-18;Campus Sud;Sur place;12 h–14 h;13,5;2,0;11,5;5,7;18
+CB0551;C0379;2026-04-18;Campus Sud;Click & collect;14 h–15 h;12,5;0,0;12,5;5,7;16
+CB0811;;2026-04-18;Campus Nord;Click & collect;12 h–14 h;10,8;0,0;10,8;4,8;7
+CB0954;;2026-04-18;Centre-ville;Click & collect;14 h–15 h;11,9;0,0;11,9;5,1;17
+CB0972;;2026-04-18;Centre-ville;À emporter;11 h–12 h;11,9;0,0;11,9;4,8;16
+CB0018;C0009;2026-04-19;Campus Nord;Click & collect;12 h–14 h;13,3;2,0;11,3;5,1;8
+CB0040;C0020;2026-04-19;Campus Nord;À emporter;12 h–14 h;13,3;0,0;13,3;5,7;8
+CB0272;C0173;2026-04-19;Centre-ville;Click & collect;11 h–12 h;13,4;2,0;11,4;5,1;6
+CB0077;C0039;2026-04-20;Campus Nord;Click & collect;12 h–14 h;14,8;2,0;12,8;5,7;6
+CB0270;C0171;2026-04-20;Centre-ville;Click & collect;12 h–14 h;13,4;2,0;11,4;4,8;5
+CB0337;C0218;2026-04-20;Centre-ville;À emporter;11 h–12 h;13,4;2,0;11,4;5,7;14
+CB0343;C0224;2026-04-20;Centre-ville;Sur place;11 h–12 h;13,9;2,0;11,9;4,8;19
+CB0096;C0048;2026-04-21;Campus Nord;À emporter;14 h–15 h;13,3;2,0;11,3;4,5;8
+CB0142;C0072;2026-04-21;Campus Nord;Click & collect;14 h–15 h;12,3;0,0;12,3;4,8;9
+CB0197;C0124;2026-04-21;Campus Nord;Sur place;12 h–14 h;11,3;0,0;11,3;5,1;18
+CB0208;C0131;2026-04-21;Campus Nord;Sur place;14 h–15 h;11,8;0,0;11,8;5,7;20
+CB0250;C0157;2026-04-21;Centre-ville;Click & collect;12 h–14 h;13,4;2,0;11,4;4,5;5
+CB0310;C0196;2026-04-21;Centre-ville;Click & collect;14 h–15 h;11,9;0,0;11,9;5,7;15
+CB0423;C0292;2026-04-21;Campus Sud;À emporter;14 h–15 h;12,5;0,0;12,5;5,1;10
+CB0191;C0121;2026-04-22;Campus Nord;Sur place;12 h–14 h;11,8;0,0;11,8;4,5;16
+CB0411;C0286;2026-04-22;Campus Sud;Sur place;11 h–12 h;13,0;0,0;13,0;4,8;10
+CB0545;C0373;2026-04-22;Campus Sud;Sur place;12 h–14 h;12,0;2,0;10,0;4,5;10
+CB0242;C0153;2026-04-23;Centre-ville;Sur place;12 h–14 h;12,4;0,0;12,4;5,1;5
+CB0283;C0182;2026-04-23;Centre-ville;Click & collect;14 h–15 h;12,9;2,0;10,9;5,4;17
+CB0354;C0235;2026-04-23;Centre-ville;Sur place;14 h–15 h;11,9;0,0;11,9;4,8;21
+CB0363;C0244;2026-04-23;Centre-ville;Sur place;12 h–14 h;10,9;0,0;10,9;5,4;15
+CB0541;C0371;2026-04-23;Campus Sud;Click & collect;11 h–12 h;10,5;0,0;10,5;4,5;10
+CB0809;;2026-04-23;Campus Nord;À emporter;14 h–15 h;10,3;0,0;10,3;4,5;7
+CB0044;C0022;2026-04-24;Campus Nord;Sur place;12 h–14 h;10,8;0,0;10,8;5,1;8
+CB0137;C0069;2026-04-24;Campus Nord;Click & collect;14 h–15 h;10,8;0,0;10,8;5,4;10
+CB0141;C0071;2026-04-24;Campus Nord;Click & collect;11 h–12 h;12,8;2,0;10,8;5,1;8
+CB0212;C0135;2026-04-24;Campus Nord;Click & collect;14 h–15 h;15,3;2,0;13,3;5,1;22
+CB0274;C0175;2026-04-24;Centre-ville;Click & collect;14 h–15 h;14,4;2,0;12,4;4,5;8
+CB0286;C0184;2026-04-24;Centre-ville;À emporter;14 h–15 h;11,4;0,0;11,4;4,5;14
+CB0317;C0199;2026-04-24;Centre-ville;Sur place;11 h–12 h;13,4;2,0;11,4;4,8;17
+CB0550;C0378;2026-04-24;Campus Sud;À emporter;12 h–14 h;14,0;2,0;12,0;4,8;20
+CB0149;C0079;2026-04-25;Campus Nord;Click & collect;14 h–15 h;14,3;2,0;12,3;5,1;6
+CB0155;C0085;2026-04-25;Campus Nord;Sur place;14 h–15 h;13,8;2,0;11,8;5,7;9
+CB0251;C0157;2026-04-25;Centre-ville;À emporter;14 h–15 h;13,9;0,0;13,9;5,4;17
+CB0311;C0196;2026-04-25;Centre-ville;Click & collect;14 h–15 h;12,4;0,0;12,4;4,8;17
+CB0401;C0281;2026-04-25;Campus Sud;Click & collect;12 h–14 h;13,0;0,0;13,0;4,5;10
+CB0510;C0351;2026-04-25;Campus Sud;Sur place;11 h–12 h;14,5;2,0;12,5;5,4;10
+CB0024;C0012;2026-04-26;Campus Nord;À emporter;12 h–14 h;11,8;0,0;11,8;4,5;8
+CB0213;C0136;2026-04-26;Campus Nord;Click & collect;14 h–15 h;10,8;0,0;10,8;4,5;15
+CB0803;;2026-04-26;Campus Nord;Sur place;14 h–15 h;13,3;0,0;13,3;5,4;7
+CB0805;;2026-04-26;Campus Nord;À emporter;11 h–12 h;11,3;0,0;11,3;5,1;7
+CB0059;C0030;2026-04-27;Campus Nord;À emporter;14 h–15 h;12,3;0,0;12,3;5,7;6
+CB0314;C0198;2026-04-27;Centre-ville;Click & collect;12 h–14 h;13,9;0,0;13,9;4,5;13
+CB0409;C0285;2026-04-27;Campus Sud;Click & collect;14 h–15 h;11,5;0,0;11,5;5,4;10
+CB0507;C0348;2026-04-27;Campus Sud;Sur place;12 h–14 h;10,0;0,0;10,0;5,7;5
+CB1053;;2026-04-27;Campus Sud;Sur place;14 h–15 h;12,5;0,0;12,5;5,4;9
+CB0001;C0001;2026-04-28;Campus Nord;Click & collect;14 h–15 h;12,8;0,0;12,8;4,5;6
+CB0482;C0323;2026-04-28;Campus Sud;Click & collect;12 h–14 h;13,5;2,0;11,5;4,8;9
+CB0486;C0327;2026-04-28;Campus Sud;À emporter;11 h–12 h;10,0;0,0;10,0;4,5;8
+CB0502;C0343;2026-04-28;Campus Sud;Click & collect;12 h–14 h;10,0;0,0;10,0;4,5;5
+CB0553;C0381;2026-04-28;Campus Sud;Sur place;12 h–14 h;13,0;0,0;13,0;4,5;16
+CB0799;;2026-04-28;Campus Nord;Click & collect;12 h–14 h;15,3;2,0;13,3;5,1;7
+CB0940;;2026-04-28;Centre-ville;Click & collect;12 h–14 h;11,9;0,0;11,9;5,4;17
+CB0078;C0039;2026-04-29;Campus Nord;À emporter;12 h–14 h;11,8;0,0;11,8;5,4;8
+CB0261;C0162;2026-04-29;Centre-ville;Sur place;12 h–14 h;13,9;2,0;11,9;5,1;17
+CB0470;C0316;2026-04-29;Campus Sud;À emporter;12 h–14 h;12,5;2,0;10,5;4,5;10
+CB0505;C0346;2026-04-29;Campus Sud;À emporter;12 h–14 h;14,5;2,0;12,5;5,1;7
+CB0051;C0026;2026-04-30;Campus Nord;Sur place;12 h–14 h;15,3;2,0;13,3;5,1;6
+CB0517;C0358;2026-04-30;Campus Sud;Click & collect;14 h–15 h;13,0;2,0;11,0;5,1;5
+CB0536;C0369;2026-04-30;Campus Sud;Sur place;12 h–14 h;13,0;2,0;11,0;5,4;19
+CB0165;C0095;2026-05-01;Campus Nord;À emporter;14 h–15 h;10,3;0,0;10,3;4,5;6
+CB0174;C0104;2026-05-01;Campus Nord;À emporter;11 h–12 h;14,8;2,0;12,8;5,1;7
+CB0256;C0160;2026-05-01;Centre-ville;Sur place;14 h–15 h;12,9;0,0;12,9;5,1;5
+CB0264;C0165;2026-05-01;Centre-ville;Click & collect;12 h–14 h;14,4;2,0;12,4;4,8;8
+CB0304;C0193;2026-05-01;Centre-ville;À emporter;14 h–15 h;12,4;0,0;12,4;5,7;17
+CB0382;C0263;2026-05-01;Centre-ville;Click & collect;12 h–14 h;15,9;2,0;13,9;5,4;20
+CB0492;C0333;2026-05-01;Campus Sud;Click & collect;12 h–14 h;12,0;0,0;12,0;4,5;8
+CB0538;C0370;2026-05-01;Campus Sud;Click & collect;11 h–12 h;12,5;2,0;10,5;5,1;15
+CB0781;;2026-05-01;Campus Nord;Sur place;12 h–14 h;15,3;2,0;13,3;5,7;7
+CB0969;;2026-05-01;Centre-ville;Click & collect;14 h–15 h;13,4;0,0;13,4;5,4;16
+CB0406;C0284;2026-05-02;Campus Sud;Sur place;14 h–15 h;12,5;2,0;10,5;5,1;10
+CB0792;;2026-05-02;Campus Nord;À emporter;11 h–12 h;13,3;0,0;13,3;5,4;7
+CB0192;C0121;2026-05-03;Campus Nord;Click & collect;11 h–12 h;11,3;0,0;11,3;5,7;8
+CB0265;C0166;2026-05-03;Centre-ville;Sur place;12 h–14 h;14,4;2,0;12,4;5,4;10
+CB0305;C0193;2026-05-03;Centre-ville;Sur place;12 h–14 h;10,9;0,0;10,9;4,8;17
+CB0485;C0326;2026-05-03;Campus Sud;Click & collect;12 h–14 h;14,0;2,0;12,0;5,4;8
+CB0002;C0001;2026-05-04;Campus Nord;Sur place;12 h–14 h;13,8;2,0;11,8;5,1;8
+CB0188;C0118;2026-05-04;Campus Nord;Sur place;14 h–15 h;15,3;2,0;13,3;4,5;5
+CB0373;C0254;2026-05-04;Centre-ville;Click & collect;11 h–12 h;12,9;0,0;12,9;5,4;19
+CB0961;;2026-05-04;Centre-ville;À emporter;12 h–14 h;10,9;0,0;10,9;5,1;17
+CB0060;C0030;2026-05-05;Campus Nord;Sur place;14 h–15 h;13,3;2,0;11,3;5,1;8
+CB0063;C0032;2026-05-05;Campus Nord;À emporter;14 h–15 h;12,3;2,0;10,3;5,1;10
+CB0429;C0295;2026-05-05;Campus Sud;Click & collect;11 h–12 h;10,0;0,0;10,0;4,5;10
+CB0566;C0394;2026-05-05;Campus Sud;Sur place;12 h–14 h;12,0;0,0;12,0;5,7;18
+CB0971;;2026-05-05;Centre-ville;Click & collect;14 h–15 h;11,4;0,0;11,4;4,8;16
+CB0117;C0059;2026-05-06;Campus Nord;Sur place;11 h–12 h;13,3;0,0;13,3;4,8;9
+CB0135;C0068;2026-05-06;Campus Nord;À emporter;11 h–12 h;12,3;0,0;12,3;4,8;9
+CB0158;C0088;2026-05-06;Campus Nord;Click & collect;14 h–15 h;15,3;2,0;13,3;5,4;7
+CB0210;C0133;2026-05-06;Campus Nord;À emporter;11 h–12 h;12,3;0,0;12,3;5,4;22
+CB0402;C0282;2026-05-06;Campus Sud;Sur place;14 h–15 h;12,0;0,0;12,0;5,1;6
+CB0526;C0364;2026-05-06;Campus Sud;À emporter;12 h–14 h;12,0;2,0;10,0;5,4;22
+CB0967;;2026-05-06;Centre-ville;Sur place;14 h–15 h;12,9;0,0;12,9;5,7;16
+CB1051;;2026-05-06;Campus Sud;Sur place;12 h–14 h;14,0;2,0;12,0;5,7;9
+CB0157;C0087;2026-05-07;Campus Nord;Click & collect;11 h–12 h;15,3;2,0;13,3;4,8;6
+CB0267;C0168;2026-05-07;Centre-ville;Click & collect;14 h–15 h;12,4;0,0;12,4;4,8;7
+CB0407;C0284;2026-05-07;Campus Sud;À emporter;12 h–14 h;10,0;0,0;10,0;5,4;10
+CB0471;C0316;2026-05-07;Campus Sud;À emporter;11 h–12 h;11,5;0,0;11,5;5,4;10
+CB0511;C0352;2026-05-07;Campus Sud;Sur place;14 h–15 h;12,5;0,0;12,5;4,5;5
+CB0797;;2026-05-07;Campus Nord;À emporter;12 h–14 h;10,3;0,0;10,3;5,4;7
+CB0958;;2026-05-07;Centre-ville;À emporter;12 h–14 h;13,4;0,0;13,4;4,5;17
+CB1045;;2026-05-07;Campus Sud;À emporter;14 h–15 h;12,5;0,0;12,5;5,7;9
+CB0083;C0042;2026-05-08;Campus Nord;À emporter;12 h–14 h;13,8;2,0;11,8;5,7;8
+CB0435;C0298;2026-05-08;Campus Sud;Sur place;14 h–15 h;11,0;0,0;11,0;4,8;10
+CB0481;C0322;2026-05-08;Campus Sud;Sur place;12 h–14 h;10,5;0,0;10,5;5,7;8
+CB0522;C0362;2026-05-08;Campus Sud;À emporter;12 h–14 h;10,0;0,0;10,0;5,7;16
+CB0962;;2026-05-08;Centre-ville;À emporter;14 h–15 h;12,4;0,0;12,4;5,1;17
+CB0154;C0084;2026-05-09;Campus Nord;Click & collect;11 h–12 h;15,3;2,0;13,3;4,5;7
+CB0284;C0183;2026-05-09;Centre-ville;Sur place;14 h–15 h;14,4;2,0;12,4;5,4;19
+CB0300;C0191;2026-05-09;Centre-ville;Sur place;14 h–15 h;13,9;0,0;13,9;5,1;20
+CB0555;C0383;2026-05-09;Campus Sud;À emporter;12 h–14 h;13,0;0,0;13,0;5,1;19
+CB0800;;2026-05-09;Campus Nord;Click & collect;12 h–14 h;13,8;2,0;11,8;5,1;7
+CB0009;C0005;2026-05-10;Campus Nord;À emporter;12 h–14 h;11,3;0,0;11,3;5,4;6
+CB0198;C0124;2026-05-10;Campus Nord;Sur place;12 h–14 h;10,8;0,0;10,8;5,7;8
+CB0209;C0132;2026-05-10;Campus Nord;Sur place;12 h–14 h;14,3;2,0;12,3;4,8;21
+CB0332;C0213;2026-05-10;Centre-ville;Sur place;11 h–12 h;12,9;2,0;10,9;5,1;16
+CB0342;C0223;2026-05-10;Centre-ville;Click & collect;11 h–12 h;13,4;2,0;11,4;5,4;19
+CB0381;C0262;2026-05-10;Centre-ville;À emporter;12 h–14 h;14,4;2,0;12,4;4,8;19
+CB0488;C0329;2026-05-10;Campus Sud;Click & collect;14 h–15 h;12,5;2,0;10,5;5,7;5
+CB0527;C0364;2026-05-10;Campus Sud;Click & collect;12 h–14 h;11,5;0,0;11,5;5,4;10
+CB0547;C0375;2026-05-10;Campus Sud;À emporter;12 h–14 h;12,0;2,0;10,0;4,5;14
+CB0572;C0400;2026-05-10;Campus Sud;Sur place;11 h–12 h;12,5;2,0;10,5;4,8;18
+CB0037;C0019;2026-05-11;Campus Nord;Sur place;12 h–14 h;10,8;0,0;10,8;5,1;7
+CB0184;C0114;2026-05-11;Campus Nord;Click & collect;12 h–14 h;13,8;2,0;11,8;5,1;9
+CB0374;C0255;2026-05-11;Centre-ville;Click & collect;11 h–12 h;13,9;0,0;13,9;5,7;20
+CB0399;C0280;2026-05-11;Centre-ville;Click & collect;14 h–15 h;14,9;2,0;12,9;5,4;13
+CB1050;;2026-05-11;Campus Sud;Sur place;14 h–15 h;13,0;0,0;13,0;5,7;9
+CB0151;C0081;2026-05-12;Campus Nord;Sur place;12 h–14 h;11,8;0,0;11,8;5,4;9
+CB0386;C0267;2026-05-12;Centre-ville;Click & collect;11 h–12 h;11,4;0,0;11,4;5,7;21
+CB0498;C0339;2026-05-12;Campus Sud;Sur place;14 h–15 h;12,0;2,0;10,0;5,7;7
+CB0539;C0370;2026-05-12;Campus Sud;Click & collect;12 h–14 h;11,0;0,0;11,0;5,1;10
+CB0548;C0376;2026-05-12;Campus Sud;Click & collect;12 h–14 h;12,5;2,0;10,5;4,8;22
+CB0549;C0377;2026-05-12;Campus Sud;Sur place;12 h–14 h;12,5;2,0;10,5;5,7;13
+CB0785;;2026-05-12;Campus Nord;Click & collect;14 h–15 h;13,3;0,0;13,3;5,1;7
+CB0091;C0046;2026-05-13;Campus Nord;À emporter;14 h–15 h;12,3;0,0;12,3;5,4;9
+CB0214;C0137;2026-05-13;Campus Nord;Click & collect;14 h–15 h;13,3;0,0;13,3;5,7;21
+CB0489;C0330;2026-05-13;Campus Sud;Click & collect;12 h–14 h;14,5;2,0;12,5;5,1;5
+CB0963;;2026-05-13;Centre-ville;À emporter;11 h–12 h;13,9;0,0;13,9;4,5;16
+CB0448;C0305;2026-05-14;Campus Sud;Click & collect;12 h–14 h;11,0;0,0;11,0;5,7;5
+CB0010;C0005;2026-05-15;Campus Nord;Sur place;11 h–12 h;13,8;2,0;11,8;4,5;8
+CB0438;C0300;2026-05-15;Campus Sud;À emporter;12 h–14 h;11,5;0,0;11,5;5,7;6
+CB0562;C0390;2026-05-15;Campus Sud;Click & collect;12 h–14 h;13,0;2,0;11,0;4,8;22
+CB0205;C0128;2026-05-16;Campus Nord;Click & collect;11 h–12 h;11,3;0,0;11,3;4,5;17
+CB0207;C0130;2026-05-16;Campus Nord;Click & collect;11 h–12 h;12,8;0,0;12,8;5,4;19
+CB0243;C0153;2026-05-16;Centre-ville;Click & collect;11 h–12 h;11,9;0,0;11,9;5,4;17
+CB0325;C0206;2026-05-16;Centre-ville;Click & collect;14 h–15 h;12,9;0,0;12,9;5,4;18
+CB0326;C0207;2026-05-16;Centre-ville;À emporter;12 h–14 h;10,9;0,0;10,9;4,5;13
+CB0257;C0160;2026-05-17;Centre-ville;Sur place;12 h–14 h;11,9;0,0;11,9;5,7;17
+CB0315;C0198;2026-05-17;Centre-ville;Click & collect;12 h–14 h;12,9;2,0;10,9;4,5;17
+CB0806;;2026-05-17;Campus Nord;À emporter;12 h–14 h;12,3;0,0;12,3;4,8;7
+CB0388;C0269;2026-05-18;Centre-ville;À emporter;11 h–12 h;13,9;0,0;13,9;5,1;17
+CB0807;;2026-05-18;Campus Nord;À emporter;12 h–14 h;11,8;0,0;11,8;5,1;7
+CB0810;;2026-05-18;Campus Nord;Click & collect;14 h–15 h;11,8;0,0;11,8;5,1;7
+CB0139;C0070;2026-05-19;Campus Nord;Sur place;12 h–14 h;12,3;0,0;12,3;4,5;9
+CB0384;C0265;2026-05-19;Centre-ville;À emporter;12 h–14 h;11,4;0,0;11,4;4,8;13
+CB0440;C0301;2026-05-19;Campus Sud;Sur place;12 h–14 h;10,5;0,0;10,5;5,7;6
+CB0449;C0305;2026-05-19;Campus Sud;À emporter;12 h–14 h;13,0;0,0;13,0;4,5;10
+CB0138;C0069;2026-05-20;Campus Nord;Click & collect;14 h–15 h;14,8;2,0;12,8;5,4;8
+CB0523;C0362;2026-05-20;Campus Sud;Click & collect;14 h–15 h;10,0;0,0;10,0;5,4;10
+CB0537;C0369;2026-05-20;Campus Sud;Sur place;14 h–15 h;10,0;0,0;10,0;4,8;10
+CB0203;C0127;2026-05-21;Campus Nord;Sur place;11 h–12 h;13,3;2,0;11,3;4,8;21
+CB0287;C0184;2026-05-21;Centre-ville;Click & collect;11 h–12 h;11,4;0,0;11,4;5,1;17
+CB0364;C0245;2026-05-21;Centre-ville;Click & collect;11 h–12 h;12,4;0,0;12,4;5,1;20
+CB0403;C0282;2026-05-21;Campus Sud;À emporter;14 h–15 h;15,0;2,0;13,0;5,1;10
+CB0441;C0301;2026-05-21;Campus Sud;Sur place;11 h–12 h;12,5;0,0;12,5;4,8;10
+CB0491;C0332;2026-05-21;Campus Sud;Sur place;12 h–14 h;12,0;2,0;10,0;5,1;9
+CB0956;;2026-05-21;Centre-ville;À emporter;14 h–15 h;11,9;0,0;11,9;4,8;17
+CB0105;C0053;2026-05-22;Campus Nord;Sur place;12 h–14 h;14,8;2,0;12,8;5,1;6
+CB0118;C0059;2026-05-22;Campus Nord;Click & collect;14 h–15 h;11,8;0,0;11,8;4,8;8
+CB0446;C0304;2026-05-22;Campus Sud;Sur place;11 h–12 h;13,5;2,0;11,5;4,5;5
+CB0052;C0026;2026-05-23;Campus Nord;Click & collect;11 h–12 h;13,3;0,0;13,3;5,4;8
+CB0377;C0258;2026-05-23;Centre-ville;Click & collect;12 h–14 h;12,4;0,0;12,4;4,5;16
+CB0442;C0302;2026-05-23;Campus Sud;Click & collect;11 h–12 h;14,5;2,0;12,5;4,5;6
+CB0518;C0359;2026-05-23;Campus Sud;À emporter;14 h–15 h;10,5;0,0;10,5;5,1;5
+CB0038;C0019;2026-05-24;Campus Nord;À emporter;11 h–12 h;12,8;0,0;12,8;4,8;8
+CB0211;C0134;2026-05-24;Campus Nord;À emporter;14 h–15 h;15,3;2,0;13,3;4,5;20
+CB0490;C0331;2026-05-24;Campus Sud;Sur place;12 h–14 h;10,5;0,0;10,5;5,4;8
+CB0695;C0103;2026-05-24;Campus Nord;Click & collect;11 h–12 h;11,8;0,0;11,8;4,5;7
+CB0815;;2026-05-24;Campus Nord;Click & collect;11 h–12 h;13,8;2,0;11,8;5,7;7
+CB0136;C0068;2026-05-25;Campus Nord;Click & collect;11 h–12 h;10,8;0,0;10,8;4,8;8
+CB0216;C0139;2026-05-25;Campus Nord;Click & collect;11 h–12 h;12,8;0,0;12,8;4,8;14
+CB0456;C0309;2026-05-25;Campus Sud;Click & collect;11 h–12 h;11,5;0,0;11,5;4,5;10
+CB0140;C0070;2026-05-27;Campus Nord;À emporter;12 h–14 h;11,3;0,0;11,3;5,1;8
+CB0163;C0093;2026-05-27;Campus Nord;Sur place;14 h–15 h;12,3;0,0;12,3;5,4;6
+CB0218;C0141;2026-05-27;Centre-ville;À emporter;11 h–12 h;12,4;0,0;12,4;5,1;6
+CB0454;C0308;2026-05-27;Campus Sud;Click & collect;14 h–15 h;12,5;0,0;12,5;4,8;5
+CB0285;C0183;2026-05-28;Centre-ville;À emporter;14 h–15 h;14,9;2,0;12,9;4,5;17
+CB0344;C0225;2026-05-28;Centre-ville;Sur place;14 h–15 h;12,9;2,0;10,9;4,5;22
+CB0375;C0256;2026-05-28;Centre-ville;À emporter;11 h–12 h;13,9;0,0;13,9;5,7;22
+CB0813;;2026-05-28;Campus Nord;Sur place;14 h–15 h;13,3;0,0;13,3;4,5;7
+CB1043;;2026-05-28;Campus Sud;À emporter;12 h–14 h;12,0;0,0;12,0;5,1;9
+CB1057;;2026-05-28;Campus Sud;Click & collect;14 h–15 h;12,0;0,0;12,0;5,4;9
+CB0011;C0006;2026-05-29;Campus Nord;Sur place;12 h–14 h;13,3;0,0;13,3;5,4;9
+CB0106;C0053;2026-05-29;Campus Nord;Sur place;14 h–15 h;11,8;0,0;11,8;4,5;8
+CB0234;C0149;2026-05-29;Centre-ville;Click & collect;12 h–14 h;11,9;0,0;11,9;4,8;6
+CB0390;C0271;2026-05-29;Centre-ville;Sur place;14 h–15 h;12,4;0,0;12,4;4,5;15
+CB0508;C0349;2026-05-29;Campus Sud;Sur place;11 h–12 h;12,5;0,0;12,5;4,5;9
+CB0493;C0334;2026-05-30;Campus Sud;Click & collect;12 h–14 h;14,0;2,0;12,0;5,7;10
+CB0693;C0020;2026-05-30;Campus Nord;Sur place;12 h–14 h;10,8;0,0;10,8;5,4;7
+CB0738;C0103;2026-05-30;Campus Nord;À emporter;11 h–12 h;12,3;2,0;10,3;5,7;7
+CB0089;C0045;2026-05-31;Campus Nord;Sur place;12 h–14 h;11,8;0,0;11,8;4,8;10
+CB0266;C0167;2026-05-31;Centre-ville;À emporter;11 h–12 h;12,9;0,0;12,9;4,8;6
+CB0318;C0200;2026-05-31;Centre-ville;Sur place;12 h–14 h;11,9;0,0;11,9;4,5;19
+CB0439;C0300;2026-05-31;Campus Sud;À emporter;12 h–14 h;12,5;0,0;12,5;4,8;10
+CB0464;C0313;2026-05-31;Campus Sud;Click & collect;11 h–12 h;11,0;0,0;11,0;5,7;8
+CB0758;C0140;2026-05-31;Campus Nord;Click & collect;11 h–12 h;13,3;0,0;13,3;5,1;7
+CB0092;C0046;2026-06-01;Campus Nord;À emporter;14 h–15 h;11,8;0,0;11,8;5,7;8
+CB0301;C0191;2026-06-01;Centre-ville;À emporter;14 h–15 h;13,9;0,0;13,9;4,5;17
+CB0356;C0237;2026-06-01;Centre-ville;Click & collect;14 h–15 h;13,4;0,0;13,4;5,1;13
+CB0528;C0365;2026-06-01;Campus Sud;Click & collect;12 h–14 h;13,0;2,0;11,0;4,8;13
+CB0568;C0396;2026-06-01;Campus Sud;À emporter;14 h–15 h;15,0;2,0;13,0;4,8;14
+CB0007;C0004;2026-06-02;Campus Nord;À emporter;12 h–14 h;13,3;2,0;11,3;4,8;10
+CB0033;C0017;2026-06-02;Campus Nord;Sur place;14 h–15 h;11,8;0,0;11,8;5,4;7
+CB0064;C0032;2026-06-02;Campus Nord;À emporter;12 h–14 h;11,8;0,0;11,8;4,8;8
+CB0097;C0049;2026-06-02;Campus Nord;Sur place;14 h–15 h;10,8;0,0;10,8;5,7;5
+CB0312;C0197;2026-06-02;Centre-ville;Sur place;14 h–15 h;14,4;2,0;12,4;4,5;19
+CB0499;C0340;2026-06-02;Campus Sud;À emporter;11 h–12 h;13,0;0,0;13,0;5,7;5
+CB0084;C0042;2026-06-03;Campus Nord;Sur place;12 h–14 h;12,8;0,0;12,8;5,7;8
+CB0359;C0240;2026-06-03;Centre-ville;Sur place;12 h–14 h;11,9;0,0;11,9;4,5;14
+CB0447;C0304;2026-06-03;Campus Sud;À emporter;14 h–15 h;13,0;0,0;13,0;5,1;10
+CB0524;C0363;2026-06-03;Campus Sud;Click & collect;14 h–15 h;13,0;0,0;13,0;4,8;19
+CB0561;C0389;2026-06-03;Campus Sud;À emporter;11 h–12 h;14,5;2,0;12,5;5,4;18
+CB0784;;2026-06-03;Campus Nord;À emporter;12 h–14 h;10,8;0,0;10,8;5,7;7
+CB0903;C0171;2026-06-03;Centre-ville;À emporter;14 h–15 h;10,9;0,0;10,9;5,7;17
+CB0254;C0159;2026-06-04;Centre-ville;À emporter;14 h–15 h;13,9;0,0;13,9;5,4;10
+CB0455;C0308;2026-06-04;Campus Sud;Sur place;12 h–14 h;12,0;0,0;12,0;5,4;10
+CB0497;C0338;2026-06-04;Campus Sud;À emporter;11 h–12 h;14,5;2,0;12,5;5,1;6
+CB0529;C0365;2026-06-04;Campus Sud;À emporter;14 h–15 h;13,0;0,0;13,0;5,7;10
+CB0682;C0048;2026-06-04;Campus Nord;Sur place;12 h–14 h;12,3;0,0;12,3;5,7;7
+CB0965;;2026-06-04;Centre-ville;À emporter;11 h–12 h;13,4;0,0;13,4;5,4;16
+CB0012;C0006;2026-06-05;Campus Nord;Sur place;14 h–15 h;10,3;0,0;10,3;5,4;8
+CB0331;C0212;2026-06-05;Centre-ville;À emporter;12 h–14 h;11,9;0,0;11,9;4,5;22
+CB0398;C0279;2026-06-05;Centre-ville;Sur place;14 h–15 h;14,4;2,0;12,4;5,7;22
+CB0710;C0138;2026-06-05;Campus Nord;Sur place;11 h–12 h;10,3;0,0;10,3;5,1;7
+CB0199;C0125;2026-06-06;Campus Nord;Sur place;11 h–12 h;14,8;2,0;12,8;4,8;19
+CB0333;C0214;2026-06-06;Centre-ville;À emporter;11 h–12 h;13,4;2,0;11,4;5,7;14
+CB0789;;2026-06-06;Campus Nord;À emporter;11 h–12 h;10,3;0,0;10,3;4,5;7
+CB0107;C0054;2026-06-07;Campus Nord;Sur place;14 h–15 h;15,3;2,0;13,3;4,5;5
+CB0167;C0097;2026-06-07;Campus Nord;Click & collect;14 h–15 h;11,8;0,0;11,8;5,4;6
+CB0235;C0149;2026-06-07;Centre-ville;Sur place;12 h–14 h;11,9;0,0;11,9;5,4;17
+CB0476;C0319;2026-06-07;Campus Sud;À emporter;12 h–14 h;11,5;0,0;11,5;4,8;5
+CB0204;C0127;2026-06-08;Campus Nord;À emporter;11 h–12 h;11,3;0,0;11,3;5,4;8
+CB0367;C0248;2026-06-08;Centre-ville;Sur place;12 h–14 h;14,4;2,0;12,4;4,5;16
+CB0436;C0299;2026-06-08;Campus Sud;Sur place;14 h–15 h;10,5;0,0;10,5;5,4;6
+CB0444;C0303;2026-06-08;Campus Sud;À emporter;12 h–14 h;11,0;0,0;11,0;5,7;9
+CB0255;C0159;2026-06-09;Centre-ville;Click & collect;12 h–14 h;11,9;0,0;11,9;4,8;17
+CB0329;C0210;2026-06-09;Centre-ville;À emporter;11 h–12 h;13,9;2,0;11,9;5,4;22
+CB0546;C0374;2026-06-09;Campus Sud;Sur place;14 h–15 h;11,5;0,0;11,5;4,8;18
+CB0741;C0001;2026-06-09;Campus Nord;Sur place;11 h–12 h;10,3;0,0;10,3;5,7;7
+CB0008;C0004;2026-06-10;Campus Nord;Click & collect;11 h–12 h;13,3;0,0;13,3;5,1;8
+CB0169;C0099;2026-06-10;Campus Nord;À emporter;12 h–14 h;10,3;0,0;10,3;4,8;10
+CB0445;C0303;2026-06-10;Campus Sud;Click & collect;14 h–15 h;10,5;0,0;10,5;5,4;10
+CB0073;C0037;2026-06-11;Campus Nord;Sur place;14 h–15 h;12,3;2,0;10,3;4,8;5
+CB0153;C0083;2026-06-11;Campus Nord;Sur place;11 h–12 h;13,8;2,0;11,8;5,7;9
+CB0392;C0273;2026-06-11;Centre-ville;À emporter;11 h–12 h;12,4;0,0;12,4;4,5;16
+CB0556;C0384;2026-06-11;Campus Sud;À emporter;12 h–14 h;11,5;0,0;11,5;4,8;22
+CB0795;;2026-06-11;Campus Nord;Click & collect;14 h–15 h;13,8;2,0;11,8;4,5;7
+CB0346;C0227;2026-06-12;Centre-ville;Sur place;14 h–15 h;12,9;0,0;12,9;4,8;18
+CB0378;C0259;2026-06-12;Centre-ville;À emporter;12 h–14 h;12,9;0,0;12,9;4,8;17
+CB0465;C0313;2026-06-12;Campus Sud;Sur place;12 h–14 h;11,0;0,0;11,0;4,5;10
+CB0571;C0399;2026-06-12;Campus Sud;Sur place;11 h–12 h;11,5;0,0;11,5;4,8;15
+CB0992;C0292;2026-06-12;Campus Sud;Click & collect;12 h–14 h;15,0;2,0;13,0;4,5;9
+CB0172;C0102;2026-06-13;Campus Nord;À emporter;12 h–14 h;13,8;2,0;11,8;4,8;10
+CB0324;C0205;2026-06-13;Centre-ville;Click & collect;12 h–14 h;13,9;0,0;13,9;5,7;13
+CB0443;C0302;2026-06-13;Campus Sud;Click & collect;14 h–15 h;12,5;0,0;12,5;5,1;10
+CB0701;C0135;2026-06-13;Campus Nord;Sur place;14 h–15 h;10,3;0,0;10,3;5,4;7
+CB0071;C0036;2026-06-14;Campus Nord;À emporter;11 h–12 h;15,3;2,0;13,3;5,1;7
+CB0182;C0112;2026-06-14;Campus Nord;Click & collect;12 h–14 h;13,3;2,0;11,3;5,1;6
+CB0532;C0367;2026-06-14;Campus Sud;À emporter;12 h–14 h;13,5;2,0;11,5;5,7;18
+CB1056;;2026-06-14;Campus Sud;Sur place;14 h–15 h;10,0;0,0;10,0;4,8;9
+CB1060;;2026-06-14;Campus Sud;Sur place;11 h–12 h;12,5;0,0;12,5;5,1;9
+CB0049;C0025;2026-06-15;Campus Nord;Sur place;12 h–14 h;11,8;0,0;11,8;5,4;5
+CB0125;C0063;2026-06-15;Campus Nord;Sur place;14 h–15 h;12,8;2,0;10,8;5,4;5
+CB0201;C0126;2026-06-15;Campus Nord;Click & collect;11 h–12 h;13,8;2,0;11,8;4,8;19
+CB0368;C0249;2026-06-15;Centre-ville;Click & collect;14 h–15 h;10,9;0,0;10,9;5,7;15
+CB0424;C0293;2026-06-15;Campus Sud;À emporter;11 h–12 h;12,0;2,0;10,0;4,5;7
+CB0812;;2026-06-15;Campus Nord;Sur place;11 h–12 h;10,8;0,0;10,8;4,8;7
+CB0090;C0045;2026-06-16;Campus Nord;Sur place;12 h–14 h;14,8;2,0;12,8;4,8;8
+CB0093;C0047;2026-06-16;Campus Nord;À emporter;12 h–14 h;11,8;0,0;11,8;5,4;9
+CB0362;C0243;2026-06-16;Centre-ville;Sur place;14 h–15 h;12,9;2,0;10,9;5,7;19
+CB0389;C0270;2026-06-16;Centre-ville;Sur place;14 h–15 h;15,4;2,0;13,4;5,4;13
+CB0034;C0017;2026-06-17;Campus Nord;Sur place;11 h–12 h;13,3;0,0;13,3;5,4;8
+CB0050;C0025;2026-06-17;Campus Nord;À emporter;14 h–15 h;10,3;0,0;10,3;5,7;8
+CB0108;C0054;2026-06-17;Campus Nord;À emporter;12 h–14 h;11,8;0,0;11,8;4,8;8
+CB0146;C0076;2026-06-17;Campus Nord;Sur place;11 h–12 h;12,3;2,0;10,3;5,4;10
+CB0358;C0239;2026-06-17;Centre-ville;Sur place;12 h–14 h;13,9;2,0;11,9;4,5;22
+CB0881;C0272;2026-06-17;Centre-ville;Sur place;12 h–14 h;13,9;0,0;13,9;5,4;17
+CB0430;C0296;2026-06-18;Campus Sud;Click & collect;14 h–15 h;12,0;0,0;12,0;5,1;8
+CB0500;C0341;2026-06-18;Campus Sud;À emporter;14 h–15 h;13,0;2,0;11,0;5,4;5
+CB0519;C0360;2026-06-18;Campus Sud;Click & collect;12 h–14 h;13,0;2,0;11,0;5,1;7
+CB0981;C0326;2026-06-18;Campus Sud;À emporter;14 h–15 h;12,5;0,0;12,5;4,5;10
+CB0098;C0049;2026-06-19;Campus Nord;Sur place;14 h–15 h;11,8;0,0;11,8;5,7;8
+CB0160;C0090;2026-06-19;Campus Nord;À emporter;12 h–14 h;11,3;0,0;11,3;4,8;9
+CB0200;C0125;2026-06-19;Campus Nord;À emporter;14 h–15 h;12,8;0,0;12,8;5,7;8
+CB0313;C0197;2026-06-19;Centre-ville;À emporter;12 h–14 h;13,4;2,0;11,4;4,8;17
+CB0798;;2026-06-19;Campus Nord;À emporter;14 h–15 h;10,8;0,0;10,8;4,8;7
+CB0168;C0098;2026-06-20;Campus Nord;Click & collect;12 h–14 h;11,3;0,0;11,3;5,1;6
+CB0457;C0309;2026-06-20;Campus Sud;Click & collect;11 h–12 h;10,5;0,0;10,5;5,7;10
+CB0472;C0317;2026-06-20;Campus Sud;À emporter;12 h–14 h;11,5;0,0;11,5;4,8;8
+CB0931;C0171;2026-06-20;Centre-ville;Sur place;14 h–15 h;15,9;2,0;13,9;5,4;17
+CB0057;C0029;2026-06-21;Campus Nord;À emporter;11 h–12 h;12,3;2,0;10,3;5,4;8
+CB0164;C0094;2026-06-21;Campus Nord;Click & collect;11 h–12 h;11,8;0,0;11,8;4,8;6
+CB0393;C0274;2026-06-21;Centre-ville;À emporter;11 h–12 h;15,9;2,0;13,9;5,1;17
+CB0563;C0391;2026-06-21;Campus Sud;Sur place;12 h–14 h;15,0;2,0;13,0;5,4;22
+CB0996;C0343;2026-06-21;Campus Sud;Click & collect;14 h–15 h;14,5;2,0;12,5;5,7;9
+CB0075;C0038;2026-06-22;Campus Nord;À emporter;12 h–14 h;12,3;2,0;10,3;5,4;7
+CB0179;C0109;2026-06-22;Campus Nord;Sur place;14 h–15 h;14,8;2,0;12,8;5,4;8
+CB0219;C0141;2026-06-22;Centre-ville;Sur place;14 h–15 h;11,9;0,0;11,9;4,5;17
+CB0477;C0319;2026-06-22;Campus Sud;Click & collect;14 h–15 h;12,0;0,0;12,0;5,1;10
+CB0129;C0065;2026-06-23;Campus Nord;À emporter;14 h–15 h;10,8;0,0;10,8;5,7;9
+CB0176;C0106;2026-06-23;Campus Nord;Click & collect;12 h–14 h;10,3;0,0;10,3;4,5;10
+CB0404;C0283;2026-06-23;Campus Sud;Click & collect;14 h–15 h;13,5;2,0;11,5;5,4;7
+CB0525;C0363;2026-06-23;Campus Sud;Click & collect;12 h–14 h;10,5;0,0;10,5;5,4;10
+CB0782;;2026-06-23;Campus Nord;Click & collect;11 h–12 h;10,3;0,0;10,3;5,1;7
+CB0029;C0015;2026-06-24;Campus Nord;Click & collect;14 h–15 h;15,3;2,0;13,3;4,5;10
+CB0072;C0036;2026-06-24;Campus Nord;Sur place;11 h–12 h;11,3;0,0;11,3;5,7;8
+CB0224;C0144;2026-06-24;Centre-ville;Sur place;12 h–14 h;12,9;0,0;12,9;5,1;6
+CB0085;C0043;2026-06-25;Campus Nord;Click & collect;14 h–15 h;12,3;2,0;10,3;5,7;10
+CB0271;C0172;2026-06-25;Centre-ville;À emporter;11 h–12 h;11,9;0,0;11,9;5,7;7
+CB0366;C0247;2026-06-25;Centre-ville;Click & collect;12 h–14 h;13,9;2,0;11,9;4,5;15
+CB0734;C0096;2026-06-25;Campus Nord;Click & collect;11 h–12 h;12,3;0,0;12,3;5,7;7
+CB0133;C0067;2026-06-26;Campus Nord;Sur place;11 h–12 h;15,3;2,0;13,3;5,7;9
+CB0353;C0234;2026-06-26;Centre-ville;Sur place;14 h–15 h;15,9;2,0;13,9;5,7;20
+CB0425;C0293;2026-06-26;Campus Sud;À emporter;12 h–14 h;12,5;0,0;12,5;4,8;10
+CB0426;C0294;2026-06-26;Campus Sud;À emporter;11 h–12 h;12,5;2,0;10,5;5,4;10
+CB0515;C0356;2026-06-26;Campus Sud;À emporter;12 h–14 h;13,0;0,0;13,0;4,5;7
+CB0754;C0133;2026-06-26;Campus Nord;Click & collect;11 h–12 h;15,3;2,0;13,3;5,4;7
+CB0793;;2026-06-26;Campus Nord;Sur place;14 h–15 h;12,3;0,0;12,3;5,7;7
+CB0850;C0164;2026-06-26;Centre-ville;Sur place;11 h–12 h;13,4;0,0;13,4;5,4;17
+CB0947;;2026-06-26;Centre-ville;Click & collect;12 h–14 h;13,9;0,0;13,9;4,8;17
+CB0087;C0044;2026-06-27;Campus Nord;Click & collect;11 h–12 h;10,8;0,0;10,8;5,1;5
+CB0109;C0055;2026-06-27;Campus Nord;Sur place;12 h–14 h;10,3;0,0;10,3;4,5;9
+CB0126;C0063;2026-06-27;Campus Nord;Click & collect;14 h–15 h;11,8;0,0;11,8;5,4;8
+CB0319;C0200;2026-06-27;Centre-ville;Click & collect;12 h–14 h;11,4;0,0;11,4;4,8;17
+CB0560;C0388;2026-06-27;Campus Sud;Sur place;11 h–12 h;14,0;2,0;12,0;5,4;20
+CB0937;C0244;2026-06-27;Centre-ville;Click & collect;12 h–14 h;11,9;0,0;11,9;4,5;17
+CB1026;C0284;2026-06-27;Campus Sud;Sur place;11 h–12 h;13,0;0,0;13,0;5,4;9
+CB0021;C0011;2026-06-28;Campus Nord;Click & collect;12 h–14 h;12,8;2,0;10,8;4,5;5
+CB0134;C0067;2026-06-28;Campus Nord;Click & collect;11 h–12 h;11,8;0,0;11,8;5,7;8
+CB0462;C0312;2026-06-28;Campus Sud;Click & collect;12 h–14 h;15,0;2,0;13,0;4,8;6
+CB0721;C0086;2026-06-28;Campus Nord;À emporter;14 h–15 h;10,3;0,0;10,3;5,4;7
+CB0777;;2026-06-28;Campus Nord;À emporter;12 h–14 h;12,3;0,0;12,3;5,4;7
+CB1047;;2026-06-28;Campus Sud;Click & collect;14 h–15 h;11,5;0,0;11,5;4,8;9
+CB0041;C0021;2026-06-29;Campus Nord;Click & collect;12 h–14 h;15,3;2,0;13,3;4,8;9
+CB0076;C0038;2026-06-29;Campus Nord;À emporter;12 h–14 h;12,8;0,0;12,8;4,5;8
+CB0280;C0181;2026-06-29;Centre-ville;Sur place;11 h–12 h;15,9;2,0;13,9;5,1;20
+CB0431;C0296;2026-06-29;Campus Sud;À emporter;11 h–12 h;14,5;2,0;12,5;4,5;10
+CB0666;C0081;2026-06-29;Campus Nord;À emporter;11 h–12 h;13,3;0,0;13,3;4,8;8
+CB0713;C0005;2026-06-29;Campus Nord;Click & collect;14 h–15 h;11,3;0,0;11,3;4,5;7
+CB0788;;2026-06-29;Campus Nord;À emporter;14 h–15 h;12,3;2,0;10,3;5,7;7
+CB0846;C0275;2026-06-29;Centre-ville;À emporter;12 h–14 h;14,4;2,0;12,4;4,8;17
+CB0853;C0267;2026-06-29;Centre-ville;Sur place;11 h–12 h;11,4;0,0;11,4;5,4;17
+CB0345;C0226;2026-06-30;Centre-ville;À emporter;14 h–15 h;12,9;2,0;10,9;4,8;18
+CB0552;C0380;2026-06-30;Campus Sud;Click & collect;11 h–12 h;10,5;0,0;10,5;5,4;15
+CB0558;C0386;2026-06-30;Campus Sud;Sur place;14 h–15 h;12,5;2,0;10,5;5,7;19
+CB0074;C0037;2026-07-01;Campus Nord;Sur place;12 h–14 h;11,3;0,0;11,3;5,1;8
+CB0350;C0231;2026-07-01;Centre-ville;Click & collect;11 h–12 h;15,4;2,0;13,4;5,7;20
+CB0380;C0261;2026-07-01;Centre-ville;Sur place;14 h–15 h;13,9;2,0;11,9;5,1;19
+CB0501;C0342;2026-07-01;Campus Sud;Sur place;11 h–12 h;14,0;2,0;12,0;4,5;6
+CB1014;C0371;2026-07-01;Campus Sud;Sur place;11 h–12 h;10,5;0,0;10,5;5,4;9
+CB0230;C0147;2026-07-02;Centre-ville;Sur place;11 h–12 h;14,9;2,0;12,9;4,5;7
+CB0334;C0215;2026-07-02;Centre-ville;Sur place;12 h–14 h;15,4;2,0;13,4;5,4;16
+CB0466;C0314;2026-07-02;Campus Sud;À emporter;11 h–12 h;11,5;0,0;11,5;4,8;8
+CB0655;C0100;2026-07-02;Campus Nord;Sur place;12 h–14 h;14,8;2,0;12,8;5,7;8
+CB0722;C0136;2026-07-02;Campus Nord;Click & collect;12 h–14 h;12,8;0,0;12,8;5,1;7
+CB0836;C0242;2026-07-02;Centre-ville;Click & collect;11 h–12 h;15,4;2,0;13,4;4,5;17
+CB0103;C0052;2026-07-03;Campus Nord;Sur place;11 h–12 h;10,3;0,0;10,3;5,7;7
+CB0190;C0120;2026-07-03;Campus Nord;Click & collect;12 h–14 h;12,3;2,0;10,3;4,5;10
+CB0246;C0155;2026-07-03;Centre-ville;Sur place;11 h–12 h;12,9;0,0;12,9;5,7;7
+CB0463;C0312;2026-07-03;Campus Sud;Click & collect;12 h–14 h;12,5;0,0;12,5;5,7;10
+CB0480;C0321;2026-07-03;Campus Sud;Sur place;11 h–12 h;12,5;0,0;12,5;5,7;6
+CB0909;C0184;2026-07-03;Centre-ville;Sur place;14 h–15 h;11,4;0,0;11,4;4,5;17
+CB0067;C0034;2026-07-04;Campus Nord;À emporter;12 h–14 h;10,3;0,0;10,3;5,1;7
+CB0081;C0041;2026-07-04;Campus Nord;À emporter;14 h–15 h;14,8;2,0;12,8;4,5;9
+CB0320;C0201;2026-07-04;Centre-ville;Click & collect;14 h–15 h;15,4;2,0;13,4;4,5;14
+CB0437;C0299;2026-07-04;Campus Sud;Sur place;11 h–12 h;12,5;2,0;10,5;4,8;10
+CB0467;C0314;2026-07-04;Campus Sud;À emporter;12 h–14 h;13,5;2,0;11,5;5,7;10
+CB0483;C0324;2026-07-04;Campus Sud;Sur place;11 h–12 h;13,0;0,0;13,0;4,8;6
+CB0520;C0361;2026-07-04;Campus Sud;Click & collect;14 h–15 h;10,5;0,0;10,5;5,7;17
+CB0533;C0367;2026-07-04;Campus Sud;À emporter;12 h–14 h;11,0;0,0;11,0;4,5;10
+CB0671;C0118;2026-07-04;Campus Nord;À emporter;14 h–15 h;10,8;0,0;10,8;5,7;8
+CB0275;C0176;2026-07-05;Centre-ville;À emporter;11 h–12 h;12,9;2,0;10,9;5,4;7
+CB0495;C0336;2026-07-05;Campus Sud;À emporter;14 h–15 h;12,5;0,0;12,5;4,5;7
+CB0162;C0092;2026-07-06;Campus Nord;À emporter;12 h–14 h;14,8;2,0;12,8;4,5;8
+CB0405;C0283;2026-07-06;Campus Sud;À emporter;14 h–15 h;10,0;0,0;10,0;5,1;10
+CB0635;C0091;2026-07-06;Campus Nord;Click & collect;14 h–15 h;11,8;0,0;11,8;5,4;8
+CB0027;C0014;2026-07-07;Campus Nord;Click & collect;12 h–14 h;10,3;0,0;10,3;4,5;8
+CB0042;C0021;2026-07-07;Campus Nord;Sur place;14 h–15 h;13,3;0,0;13,3;5,7;8
+CB0058;C0029;2026-07-07;Campus Nord;À emporter;12 h–14 h;13,3;0,0;13,3;5,7;8
+CB0294;C0188;2026-07-07;Centre-ville;Sur place;11 h–12 h;11,4;0,0;11,4;5,7;16
+CB0458;C0310;2026-07-07;Campus Sud;À emporter;14 h–15 h;13,0;2,0;11,0;4,5;10
+CB0068;C0034;2026-07-08;Campus Nord;Sur place;11 h–12 h;14,8;2,0;12,8;4,5;8
+CB0347;C0228;2026-07-08;Centre-ville;À emporter;14 h–15 h;15,4;2,0;13,4;4,8;13
+CB0369;C0250;2026-07-08;Centre-ville;À emporter;12 h–14 h;10,9;0,0;10,9;5,4;20
+CB0416;C0289;2026-07-08;Campus Sud;Click & collect;12 h–14 h;15,0;2,0;13,0;5,1;6
+CB0432;C0297;2026-07-08;Campus Sud;À emporter;12 h–14 h;12,0;2,0;10,0;5,7;9
+CB0645;C0005;2026-07-08;Campus Nord;À emporter;11 h–12 h;10,8;0,0;10,8;5,1;8
+CB0955;;2026-07-08;Centre-ville;À emporter;12 h–14 h;13,9;0,0;13,9;4,5;17
+CB0975;C0337;2026-07-08;Campus Sud;À emporter;11 h–12 h;11,0;0,0;11,0;5,7;10
+CB0110;C0055;2026-07-09;Campus Nord;Sur place;12 h–14 h;12,8;0,0;12,8;4,8;8
+CB0276;C0177;2026-07-09;Centre-ville;Sur place;14 h–15 h;15,4;2,0;13,4;5,1;10
+CB0494;C0335;2026-07-09;Campus Sud;À emporter;14 h–15 h;12,0;0,0;12,0;5,4;7
+CB0565;C0393;2026-07-09;Campus Sud;Click & collect;14 h–15 h;12,0;2,0;10,0;5,1;15
+CB0648;C0058;2026-07-09;Campus Nord;Sur place;14 h–15 h;12,3;0,0;12,3;5,1;8
+CB0822;C0173;2026-07-09;Centre-ville;Sur place;14 h–15 h;12,9;0,0;12,9;4,5;17
+CB0950;;2026-07-09;Centre-ville;Click & collect;14 h–15 h;12,4;0,0;12,4;5,1;17
+CB0030;C0015;2026-07-10;Campus Nord;À emporter;12 h–14 h;12,3;0,0;12,3;5,1;8
+CB0370;C0251;2026-07-10;Centre-ville;Sur place;14 h–15 h;12,9;0,0;12,9;5,4;16
+CB0835;C0149;2026-07-10;Centre-ville;Click & collect;11 h–12 h;11,4;0,0;11,4;4,5;17
+CB0065;C0033;2026-07-11;Campus Nord;À emporter;14 h–15 h;12,3;0,0;12,3;5,4;7
+CB0277;C0178;2026-07-11;Centre-ville;À emporter;14 h–15 h;12,4;0,0;12,4;5,4;6
+CB0355;C0236;2026-07-11;Centre-ville;Sur place;12 h–14 h;14,9;2,0;12,9;5,7;20
+CB0433;C0297;2026-07-11;Campus Sud;À emporter;12 h–14 h;11,0;0,0;11,0;5,7;10
+CB0672;C0053;2026-07-11;Campus Nord;À emporter;12 h–14 h;12,3;0,0;12,3;5,1;8
+CB0736;C0030;2026-07-11;Campus Nord;Sur place;14 h–15 h;12,8;0,0;12,8;5,1;7
+CB0053;C0027;2026-07-12;Campus Nord;Sur place;12 h–14 h;12,3;2,0;10,3;5,1;9
+CB0104;C0052;2026-07-12;Campus Nord;À emporter;11 h–12 h;13,8;2,0;11,8;5,4;8
+CB0459;C0310;2026-07-12;Campus Sud;À emporter;11 h–12 h;11,0;0,0;11,0;5,4;10
+CB0530;C0366;2026-07-12;Campus Sud;Click & collect;11 h–12 h;12,5;0,0;12,5;4,5;18
+CB1049;;2026-07-12;Campus Sud;Click & collect;11 h–12 h;15,0;2,0;13,0;5,4;9
+CB0028;C0014;2026-07-13;Campus Nord;Click & collect;14 h–15 h;12,3;0,0;12,3;4,5;8
+CB0147;C0077;2026-07-13;Campus Nord;Click & collect;14 h–15 h;10,8;0,0;10,8;5,1;5
+CB0202;C0126;2026-07-13;Campus Nord;À emporter;11 h–12 h;10,3;0,0;10,3;4,5;8
+CB0290;C0186;2026-07-13;Centre-ville;Click & collect;11 h–12 h;11,4;0,0;11,4;5,4;20
+CB0365;C0246;2026-07-13;Centre-ville;À emporter;12 h–14 h;13,9;0,0;13,9;4,8;20
+CB0473;C0317;2026-07-13;Campus Sud;À emporter;12 h–14 h;12,5;0,0;12,5;4,8;10
+CB0509;C0350;2026-07-13;Campus Sud;Click & collect;14 h–15 h;15,0;2,0;13,0;5,1;8
+CB0512;C0353;2026-07-13;Campus Sud;Click & collect;11 h–12 h;12,0;0,0;12,0;4,5;7
+CB0005;C0003;2026-07-14;Campus Nord;Sur place;12 h–14 h;13,3;0,0;13,3;5,1;5
+CB0094;C0047;2026-07-14;Campus Nord;À emporter;11 h–12 h;12,3;0,0;12,3;4,5;8
+CB0700;C0085;2026-07-14;Campus Nord;Click & collect;14 h–15 h;15,3;2,0;13,3;5,7;7
+CB0843;C0166;2026-07-14;Centre-ville;À emporter;11 h–12 h;11,4;0,0;11,4;4,8;17
+CB0964;;2026-07-14;Centre-ville;Sur place;11 h–12 h;13,4;0,0;13,4;5,7;16
+CB0088;C0044;2026-07-15;Campus Nord;Sur place;14 h–15 h;15,3;2,0;13,3;4,5;8
+CB0397;C0278;2026-07-15;Centre-ville;Sur place;12 h–14 h;15,9;2,0;13,9;5,1;22
+CB0661;C0071;2026-07-15;Campus Nord;Sur place;14 h–15 h;11,8;0,0;11,8;5,4;8
+CB0711;C0032;2026-07-15;Campus Nord;À emporter;11 h–12 h;13,3;0,0;13,3;4,5;7
+CB0915;C0168;2026-07-15;Centre-ville;Sur place;14 h–15 h;13,9;0,0;13,9;4,8;17
+CB1034;C0316;2026-07-15;Campus Sud;Sur place;14 h–15 h;12,5;2,0;10,5;5,7;9
+CB0101;C0051;2026-07-16;Campus Nord;À emporter;12 h–14 h;12,3;0,0;12,3;4,8;8
+CB0231;C0147;2026-07-16;Centre-ville;Click & collect;11 h–12 h;10,9;0,0;10,9;5,4;17
+CB0144;C0074;2026-07-17;Campus Nord;Click & collect;12 h–14 h;13,8;2,0;11,8;5,7;5
+CB0177;C0107;2026-07-17;Campus Nord;Click & collect;14 h–15 h;10,3;0,0;10,3;5,1;8
+CB0503;C0344;2026-07-17;Campus Sud;Click & collect;12 h–14 h;13,0;2,0;11,0;5,1;10
+CB0531;C0366;2026-07-17;Campus Sud;À emporter;12 h–14 h;12,0;0,0;12,0;4,5;10
+CB0570;C0398;2026-07-17;Campus Sud;Click & collect;11 h–12 h;12,0;0,0;12,0;5,4;16
+CB0952;;2026-07-17;Centre-ville;Sur place;14 h–15 h;10,9;0,0;10,9;5,4;17
+CB0047;C0024;2026-07-18;Campus Nord;Sur place;14 h–15 h;12,8;2,0;10,8;5,4;6
+CB0066;C0033;2026-07-18;Campus Nord;À emporter;12 h–14 h;13,3;0,0;13,3;4,5;8
+CB0427;C0294;2026-07-18;Campus Sud;À emporter;12 h–14 h;10,5;0,0;10,5;5,1;10
+CB0951;;2026-07-18;Centre-ville;À emporter;12 h–14 h;13,4;0,0;13,4;5,7;17
+CB0966;;2026-07-18;Centre-ville;À emporter;11 h–12 h;14,4;2,0;12,4;4,8;16
+CB1031;C0396;2026-07-18;Campus Sud;Click & collect;14 h–15 h;12,5;0,0;12,5;5,1;9
+CB0130;C0065;2026-07-19;Campus Nord;Click & collect;12 h–14 h;11,3;0,0;11,3;5,1;8
+CB0460;C0311;2026-07-19;Campus Sud;Sur place;11 h–12 h;10,5;0,0;10,5;4,8;9
+CB0989;C0302;2026-07-19;Campus Sud;À emporter;11 h–12 h;10,5;0,0;10,5;5,7;9
+CB0148;C0078;2026-07-20;Campus Nord;Click & collect;12 h–14 h;13,3;2,0;11,3;5,4;6
+CB0225;C0144;2026-07-20;Centre-ville;À emporter;11 h–12 h;12,9;0,0;12,9;5,1;17
+CB0660;C0116;2026-07-20;Campus Nord;À emporter;14 h–15 h;11,3;0,0;11,3;5,4;8
+CB1054;;2026-07-20;Campus Sud;À emporter;12 h–14 h;10,5;0,0;10,5;4,5;9
+CB0119;C0060;2026-07-21;Campus Nord;À emporter;12 h–14 h;14,8;2,0;12,8;5,4;6
+CB0178;C0108;2026-07-21;Campus Nord;À emporter;14 h–15 h;12,3;2,0;10,3;5,1;7
+CB0281;C0181;2026-07-21;Centre-ville;Click & collect;14 h–15 h;10,9;0,0;10,9;5,4;17
+CB0298;C0190;2026-07-21;Centre-ville;Sur place;11 h–12 h;13,4;0,0;13,4;5,1;18
+CB0417;C0289;2026-07-21;Campus Sud;À emporter;14 h–15 h;10,5;0,0;10,5;5,4;10
+CB0086;C0043;2026-07-22;Campus Nord;Sur place;12 h–14 h;13,3;2,0;11,3;5,1;8
+CB0195;C0123;2026-07-22;Campus Nord;À emporter;12 h–14 h;12,3;2,0;10,3;5,1;18
+CB0932;C0199;2026-07-22;Centre-ville;Sur place;12 h–14 h;11,9;0,0;11,9;5,4;17
+CB1001;C0399;2026-07-22;Campus Sud;À emporter;12 h–14 h;11,5;0,0;11,5;4,8;9
+CB0031;C0016;2026-07-23;Campus Nord;À emporter;12 h–14 h;15,3;2,0;13,3;5,4;8
+CB0322;C0203;2026-07-23;Centre-ville;À emporter;12 h–14 h;13,9;0,0;13,9;5,1;16
+CB0708;C0071;2026-07-23;Campus Nord;À emporter;14 h–15 h;11,3;0,0;11,3;5,4;7
+CB0927;C0244;2026-07-23;Centre-ville;Click & collect;12 h–14 h;12,9;0,0;12,9;5,1;17
+CB0960;;2026-07-23;Centre-ville;Click & collect;11 h–12 h;11,4;0,0;11,4;5,4;17
+CB0082;C0041;2026-07-24;Campus Nord;Click & collect;11 h–12 h;12,8;0,0;12,8;4,5;8
+CB0922;C0262;2026-07-24;Centre-ville;Sur place;12 h–14 h;11,4;0,0;11,4;4,5;17
+CB1022;C0330;2026-07-24;Campus Sud;Click & collect;12 h–14 h;11,0;0,0;11,0;5,7;9
+CB1028;C0340;2026-07-24;Campus Sud;À emporter;11 h–12 h;11,0;0,0;11,0;4,8;9
+CB1041;;2026-07-24;Campus Sud;Click & collect;14 h–15 h;12,0;2,0;10,0;5,4;9
+CB0045;C0023;2026-07-25;Campus Nord;Sur place;12 h–14 h;12,3;2,0;10,3;4,5;8
+CB0159;C0089;2026-07-25;Campus Nord;Click & collect;12 h–14 h;14,3;2,0;12,3;4,5;10
+CB0749;C0012;2026-07-25;Campus Nord;Click & collect;11 h–12 h;10,3;0,0;10,3;5,4;7
+CB0761;C0102;2026-07-25;Campus Nord;À emporter;11 h–12 h;11,8;0,0;11,8;5,7;7
+CB0022;C0011;2026-07-26;Campus Nord;Click & collect;14 h–15 h;11,8;0,0;11,8;5,4;8
+CB0288;C0185;2026-07-26;Centre-ville;Sur place;11 h–12 h;13,9;2,0;11,9;5,7;15
+CB0521;C0361;2026-07-26;Campus Sud;Sur place;12 h–14 h;10,5;0,0;10,5;5,1;10
+CB0759;C0054;2026-07-26;Campus Nord;À emporter;11 h–12 h;14,3;2,0;12,3;5,1;7
+CB0833;C0149;2026-07-26;Centre-ville;Click & collect;14 h–15 h;10,9;0,0;10,9;4,5;17
+CB0852;C0271;2026-07-26;Centre-ville;Sur place;14 h–15 h;13,4;0,0;13,4;4,8;17
+CB0892;C0193;2026-07-26;Centre-ville;Click & collect;14 h–15 h;10,9;0,0;10,9;4,8;17
+CB0035;C0018;2026-07-27;Campus Nord;À emporter;12 h–14 h;13,3;0,0;13,3;4,5;10
+CB0228;C0146;2026-07-27;Centre-ville;Sur place;14 h–15 h;13,9;2,0;11,9;5,7;10
+CB0291;C0186;2026-07-27;Centre-ville;Sur place;14 h–15 h;13,9;0,0;13,9;4,8;17
+CB0376;C0257;2026-07-27;Centre-ville;À emporter;12 h–14 h;15,4;2,0;13,4;4,5;18
+CB0468;C0315;2026-07-27;Campus Sud;Click & collect;11 h–12 h;12,5;0,0;12,5;5,4;7
+CB0832;C0225;2026-07-27;Centre-ville;Click & collect;12 h–14 h;15,9;2,0;13,9;4,8;17
+CB0957;;2026-07-27;Centre-ville;À emporter;11 h–12 h;10,9;0,0;10,9;5,7;17
+CB1013;C0384;2026-07-27;Campus Sud;Sur place;11 h–12 h;10,5;0,0;10,5;4,8;9
+CB0079;C0040;2026-07-28;Campus Nord;À emporter;14 h–15 h;14,3;2,0;12,3;4,8;7
+CB0247;C0155;2026-07-28;Centre-ville;Sur place;12 h–14 h;11,4;0,0;11,4;5,4;17
+CB0656;C0017;2026-07-28;Campus Nord;Click & collect;14 h–15 h;11,8;0,0;11,8;5,7;8
+CB0726;C0009;2026-07-28;Campus Nord;Click & collect;12 h–14 h;12,3;0,0;12,3;5,7;7
+CB0942;;2026-07-28;Centre-ville;À emporter;11 h–12 h;12,9;0,0;12,9;5,1;17
+CB0262;C0163;2026-07-29;Centre-ville;Click & collect;11 h–12 h;10,9;0,0;10,9;5,1;10
+CB0716;C0079;2026-07-29;Campus Nord;À emporter;14 h–15 h;10,3;0,0;10,3;5,7;7
+CB0728;C0086;2026-07-29;Campus Nord;À emporter;12 h–14 h;11,8;0,0;11,8;5,1;7
+CB0054;C0027;2026-07-30;Campus Nord;Sur place;14 h–15 h;10,3;0,0;10,3;5,7;8
+CB0469;C0315;2026-07-30;Campus Sud;À emporter;11 h–12 h;11,0;0,0;11,0;4,5;10
+CB0487;C0328;2026-07-30;Campus Sud;Click & collect;12 h–14 h;12,5;2,0;10,5;4,5;8
+CB0991;C0285;2026-07-30;Campus Sud;Click & collect;12 h–14 h;11,5;0,0;11,5;5,4;9
+CB1048;;2026-07-30;Campus Sud;À emporter;12 h–14 h;13,0;0,0;13,0;5,1;9
+CB0006;C0003;2026-07-31;Campus Nord;Sur place;11 h–12 h;10,3;0,0;10,3;4,8;8
+CB0181;C0111;2026-07-31;Campus Nord;Click & collect;12 h–14 h;10,3;0,0;10,3;5,1;5
+CB0222;C0143;2026-07-31;Centre-ville;Sur place;11 h–12 h;11,4;0,0;11,4;5,4;9
+CB0395;C0276;2026-07-31;Centre-ville;À emporter;11 h–12 h;12,9;2,0;10,9;5,1;17
+CB0703;C0090;2026-07-31;Campus Nord;Sur place;12 h–14 h;10,8;0,0;10,8;5,7;7
+CB0783;;2026-07-31;Campus Nord;À emporter;14 h–15 h;10,8;0,0;10,8;5,4;7
+CB0831;C0218;2026-07-31;Centre-ville;Sur place;11 h–12 h;13,9;0,0;13,9;5,4;17
+CB0036;C0018;2026-08-01;Campus Nord;À emporter;14 h–15 h;13,3;0,0;13,3;4,8;8
+CB0069;C0035;2026-08-01;Campus Nord;À emporter;11 h–12 h;13,3;0,0;13,3;4,5;8
+CB0244;C0154;2026-08-01;Centre-ville;Sur place;14 h–15 h;12,9;0,0;12,9;5,4;9
+CB0323;C0204;2026-08-01;Centre-ville;Sur place;12 h–14 h;12,4;0,0;12,4;5,4;15
+CB0379;C0260;2026-08-01;Centre-ville;Sur place;14 h–15 h;13,4;0,0;13,4;5,1;19
+CB0396;C0277;2026-08-01;Centre-ville;À emporter;12 h–14 h;14,4;2,0;12,4;4,8;15
+CB0450;C0306;2026-08-01;Campus Sud;Sur place;14 h–15 h;14,5;2,0;12,5;4,5;5
+CB0802;;2026-08-01;Campus Nord;Sur place;11 h–12 h;12,8;0,0;12,8;4,8;7
+CB0882;C0159;2026-08-01;Centre-ville;Click & collect;14 h–15 h;12,9;0,0;12,9;5,4;17
+CB0953;;2026-08-01;Centre-ville;À emporter;14 h–15 h;12,4;0,0;12,4;5,4;17
+CB0102;C0051;2026-08-02;Campus Nord;À emporter;14 h–15 h;11,8;0,0;11,8;4,5;8
+CB0330;C0211;2026-08-02;Centre-ville;Click & collect;12 h–14 h;12,9;2,0;10,9;4,5;16
+CB0683;C0076;2026-08-02;Campus Nord;À emporter;14 h–15 h;11,8;0,0;11,8;5,1;7
+CB0299;C0190;2026-08-03;Centre-ville;Click & collect;14 h–15 h;12,9;0,0;12,9;5,7;17
+CB0727;C0036;2026-08-03;Campus Nord;À emporter;14 h–15 h;10,3;0,0;10,3;4,5;7
+CB0779;;2026-08-03;Campus Nord;Sur place;14 h–15 h;13,3;0,0;13,3;5,1;7
+CB0949;;2026-08-03;Centre-ville;Sur place;14 h–15 h;12,9;0,0;12,9;4,8;17
+CB0003;C0002;2026-08-04;Campus Nord;Sur place;11 h–12 h;12,3;0,0;12,3;5,4;9
+CB0032;C0016;2026-08-04;Campus Nord;Click & collect;14 h–15 h;13,3;2,0;11,3;4,5;8
+CB0229;C0146;2026-08-04;Centre-ville;Sur place;11 h–12 h;15,4;2,0;13,4;5,7;17
+CB0295;C0188;2026-08-04;Centre-ville;À emporter;11 h–12 h;13,4;0,0;13,4;5,1;17
+CB0296;C0189;2026-08-04;Centre-ville;Sur place;14 h–15 h;12,9;0,0;12,9;5,1;18
+CB0341;C0222;2026-08-04;Centre-ville;À emporter;11 h–12 h;14,4;2,0;12,4;5,4;13
+CB0420;C0291;2026-08-04;Campus Sud;À emporter;12 h–14 h;10,0;0,0;10,0;5,1;9
+CB0633;C0046;2026-08-04;Campus Nord;À emporter;12 h–14 h;13,3;0,0;13,3;5,1;8
+CB0642;C0032;2026-08-04;Campus Nord;Click & collect;12 h–14 h;13,3;0,0;13,3;5,4;8
+CB0644;C0109;2026-08-04;Campus Nord;Sur place;14 h–15 h;11,3;0,0;11,3;4,5;8
+CB0678;C0124;2026-08-04;Campus Nord;À emporter;14 h–15 h;14,8;2,0;12,8;4,5;7
+CB0982;C0319;2026-08-04;Campus Sud;Sur place;11 h–12 h;12,0;0,0;12,0;4,8;10
+CB1006;C0329;2026-08-04;Campus Sud;À emporter;11 h–12 h;11,0;0,0;11,0;5,7;9
+CB0120;C0060;2026-08-05;Campus Nord;Click & collect;11 h–12 h;14,8;2,0;12,8;4,5;8
+CB0223;C0143;2026-08-05;Centre-ville;À emporter;14 h–15 h;11,4;0,0;11,4;4,8;17
+CB0699;C0106;2026-08-05;Campus Nord;À emporter;14 h–15 h;10,3;0,0;10,3;4,8;7
+CB0747;C0071;2026-08-05;Campus Nord;Click & collect;11 h–12 h;12,8;2,0;10,8;5,7;7
+CB0787;;2026-08-05;Campus Nord;Click & collect;14 h–15 h;13,3;0,0;13,3;5,1;7
+CB0924;C0212;2026-08-05;Centre-ville;À emporter;12 h–14 h;10,9;0,0;10,9;5,4;17
+CB1027;C0299;2026-08-05;Campus Sud;À emporter;14 h–15 h;10,0;0,0;10,0;4,5;9
+CB0070;C0035;2026-08-06;Campus Nord;Click & collect;14 h–15 h;12,8;0,0;12,8;4,5;8
+CB0143;C0073;2026-08-06;Campus Nord;Click & collect;11 h–12 h;12,3;2,0;10,3;5,7;7
+CB0252;C0158;2026-08-06;Centre-ville;Sur place;14 h–15 h;12,4;0,0;12,4;5,4;5
+CB0269;C0170;2026-08-06;Centre-ville;Sur place;14 h–15 h;13,4;2,0;11,4;5,4;9
+CB0506;C0347;2026-08-06;Campus Sud;Sur place;14 h–15 h;10,0;0,0;10,0;4,8;6
+CB0855;C0217;2026-08-06;Centre-ville;Click & collect;11 h–12 h;13,9;0,0;13,9;4,8;17
+CB0206;C0129;2026-08-07;Campus Nord;Click & collect;14 h–15 h;10,8;0,0;10,8;4,5;17
+CB0328;C0209;2026-08-07;Centre-ville;Sur place;12 h–14 h;14,4;2,0;12,4;5,7;19
+CB0383;C0264;2026-08-07;Centre-ville;À emporter;11 h–12 h;11,9;0,0;11,9;5,1;15
+CB0757;C0045;2026-08-07;Campus Nord;Click & collect;11 h–12 h;12,8;0,0;12,8;4,5;7
+CB1040;;2026-08-07;Campus Sud;Sur place;14 h–15 h;10,0;0,0;10,0;5,1;9
+CB0019;C0010;2026-08-08;Campus Nord;Sur place;14 h–15 h;10,3;0,0;10,3;4,8;6
+CB0387;C0268;2026-08-08;Centre-ville;À emporter;14 h–15 h;14,4;2,0;12,4;5,4;19
+CB0461;C0311;2026-08-08;Campus Sud;À emporter;14 h–15 h;10,0;0,0;10,0;4,5;10
+CB0828;C0275;2026-08-08;Centre-ville;À emporter;14 h–15 h;15,9;2,0;13,9;5,1;17
+CB0983;C0302;2026-08-08;Campus Sud;Click & collect;12 h–14 h;14,5;2,0;12,5;4,5;10
+CB0990;C0330;2026-08-08;Campus Sud;Sur place;12 h–14 h;11,5;0,0;11,5;4,5;9
+CB1003;C0293;2026-08-08;Campus Sud;À emporter;11 h–12 h;13,0;0,0;13,0;5,7;9
+CB0152;C0082;2026-08-09;Campus Nord;Click & collect;11 h–12 h;12,3;2,0;10,3;5,4;7
+CB0297;C0189;2026-08-09;Centre-ville;Sur place;12 h–14 h;11,4;0,0;11,4;4,5;17
+CB0321;C0202;2026-08-09;Centre-ville;Click & collect;14 h–15 h;15,9;2,0;13,9;5,1;22
+CB0652;C0030;2026-08-09;Campus Nord;Sur place;11 h–12 h;13,3;0,0;13,3;4,5;8
+CB1017;C0295;2026-08-09;Campus Sud;Sur place;11 h–12 h;11,5;0,0;11,5;5,7;9
+CB0046;C0023;2026-08-10;Campus Nord;Click & collect;14 h–15 h;10,3;0,0;10,3;4,5;8
+CB0647;C0127;2026-08-10;Campus Nord;Sur place;11 h–12 h;10,3;0,0;10,3;5,4;8
+CB0690;C0085;2026-08-10;Campus Nord;Sur place;14 h–15 h;12,8;0,0;12,8;4,8;7
+CB0804;;2026-08-10;Campus Nord;À emporter;12 h–14 h;10,3;0,0;10,3;4,8;7
+CB1008;C0382;2026-08-10;Campus Sud;Click & collect;14 h–15 h;12,5;2,0;10,5;4,8;9
+CB0121;C0061;2026-08-11;Campus Nord;À emporter;14 h–15 h;13,3;0,0;13,3;5,7;7
+CB0253;C0158;2026-08-11;Centre-ville;Click & collect;14 h–15 h;11,4;0,0;11,4;5,7;17
+CB0268;C0169;2026-08-11;Centre-ville;Click & collect;14 h–15 h;13,9;0,0;13,9;4,5;9
+CB0340;C0221;2026-08-11;Centre-ville;Click & collect;12 h–14 h;12,9;2,0;10,9;5,4;18
+CB0412;C0287;2026-08-12;Campus Sud;Sur place;11 h–12 h;12,5;2,0;10,5;5,4;8
+CB0559;C0387;2026-08-12;Campus Sud;À emporter;14 h–15 h;14,5;2,0;12,5;5,4;15
+CB0564;C0392;2026-08-12;Campus Sud;Click & collect;14 h–15 h;13,0;2,0;11,0;4,5;22
+CB0879;C0144;2026-08-12;Centre-ville;Sur place;14 h–15 h;12,4;0,0;12,4;5,7;17
+CB0921;C0224;2026-08-12;Centre-ville;À emporter;11 h–12 h;11,4;0,0;11,4;5,4;17
+CB0984;C0301;2026-08-12;Campus Sud;Click & collect;12 h–14 h;13,5;2,0;11,5;4,8;10
+CB1000;C0285;2026-08-12;Campus Sud;À emporter;11 h–12 h;13,0;2,0;11,0;4,8;9
+CB0099;C0050;2026-08-13;Campus Nord;Click & collect;12 h–14 h;12,3;0,0;12,3;4,5;5
+CB0959;;2026-08-13;Centre-ville;Sur place;11 h–12 h;13,9;0,0;13,9;4,8;17
+CB0994;C0395;2026-08-13;Campus Sud;Sur place;14 h–15 h;11,0;0,0;11,0;5,1;9
+CB0020;C0010;2026-08-14;Campus Nord;Click & collect;14 h–15 h;12,8;0,0;12,8;5,7;8
+CB0193;C0122;2026-08-14;Campus Nord;Sur place;14 h–15 h;10,3;0,0;10,3;5,4;17
+CB0245;C0154;2026-08-14;Centre-ville;À emporter;12 h–14 h;10,9;0,0;10,9;5,7;17
+CB0289;C0185;2026-08-14;Centre-ville;Sur place;11 h–12 h;11,4;0,0;11,4;5,7;17
+CB0707;C0015;2026-08-14;Campus Nord;À emporter;11 h–12 h;11,3;0,0;11,3;5,7;7
+CB0714;C0100;2026-08-14;Campus Nord;Sur place;11 h–12 h;14,8;2,0;12,8;5,4;7
+CB0733;C0076;2026-08-14;Campus Nord;À emporter;12 h–14 h;14,8;2,0;12,8;5,1;7
+CB0048;C0024;2026-08-15;Campus Nord;Click & collect;11 h–12 h;12,3;0,0;12,3;5,1;8
+CB0111;C0056;2026-08-15;Campus Nord;Click & collect;11 h–12 h;13,3;0,0;13,3;5,1;6
+CB0248;C0156;2026-08-15;Centre-ville;Sur place;14 h–15 h;14,4;2,0;12,4;4,8;9
+CB0273;C0174;2026-08-15;Centre-ville;À emporter;11 h–12 h;13,4;0,0;13,4;4,8;5
+CB0720;C0086;2026-08-15;Campus Nord;À emporter;11 h–12 h;12,3;0,0;12,3;5,4;7
+CB0888;C0226;2026-08-15;Centre-ville;Click & collect;11 h–12 h;14,4;2,0;12,4;4,5;17
+CB0934;C0273;2026-08-15;Centre-ville;Click & collect;14 h–15 h;10,9;0,0;10,9;4,5;17
+CB0999;C0295;2026-08-15;Campus Sud;Click & collect;11 h–12 h;14,0;2,0;12,0;4,8;9
+CB0127;C0064;2026-08-16;Campus Nord;Sur place;14 h–15 h;14,3;2,0;12,3;4,8;7
+CB0183;C0113;2026-08-16;Campus Nord;Click & collect;14 h–15 h;13,8;2,0;11,8;5,1;7
+CB0194;C0122;2026-08-16;Campus Nord;Sur place;12 h–14 h;14,3;2,0;12,3;4,5;8
+CB0196;C0123;2026-08-16;Campus Nord;Click & collect;11 h–12 h;12,8;0,0;12,8;5,4;8
+CB0236;C0150;2026-08-16;Centre-ville;Click & collect;11 h–12 h;14,4;2,0;12,4;5,7;8
+CB0451;C0306;2026-08-16;Campus Sud;À emporter;14 h–15 h;10,5;0,0;10,5;5,4;10
+CB0786;;2026-08-16;Campus Nord;Sur place;11 h–12 h;11,8;0,0;11,8;5,7;7
+CB0912;C0258;2026-08-16;Centre-ville;À emporter;14 h–15 h;12,4;0,0;12,4;5,1;17
+CB0948;;2026-08-16;Centre-ville;Click & collect;12 h–14 h;12,4;0,0;12,4;5,1;17
+CB0238;C0151;2026-08-17;Centre-ville;Click & collect;12 h–14 h;10,9;0,0;10,9;4,5;8
+CB0418;C0290;2026-08-17;Campus Sud;À emporter;12 h–14 h;12,5;2,0;10,5;5,7;7
+CB0914;C0193;2026-08-17;Centre-ville;Sur place;14 h–15 h;14,4;2,0;12,4;4,5;17
+CB0080;C0040;2026-08-18;Campus Nord;À emporter;12 h–14 h;12,8;0,0;12,8;4,5;8
+CB0226;C0145;2026-08-18;Centre-ville;Sur place;14 h–15 h;12,9;0,0;12,9;5,4;5
+CB0302;C0192;2026-08-18;Centre-ville;Sur place;11 h–12 h;10,9;0,0;10,9;5,1;21
+CB0327;C0208;2026-08-18;Centre-ville;Sur place;11 h–12 h;11,9;0,0;11,9;4,5;19
+CB0421;C0291;2026-08-18;Campus Sud;Sur place;11 h–12 h;11,5;0,0;11,5;4,5;10
+CB0015;C0008;2026-08-19;Campus Nord;Click & collect;12 h–14 h;13,3;2,0;11,3;5,4;5
+CB0413;C0287;2026-08-19;Campus Sud;Sur place;12 h–14 h;11,5;0,0;11,5;5,4;10
+CB0776;;2026-08-19;Campus Nord;Click & collect;14 h–15 h;12,3;0,0;12,3;4,5;7
+CB0801;;2026-08-19;Campus Nord;Sur place;12 h–14 h;13,8;2,0;11,8;5,7;7
+CB0995;C0314;2026-08-19;Campus Sud;À emporter;11 h–12 h;10,0;0,0;10,0;4,8;9
+CB1044;;2026-08-19;Campus Sud;Click & collect;12 h–14 h;11,5;0,0;11,5;4,5;9
+CB0112;C0056;2026-08-20;Campus Nord;Click & collect;12 h–14 h;12,3;2,0;10,3;5,1;8
+CB0514;C0355;2026-08-20;Campus Sud;Click & collect;11 h–12 h;11,5;0,0;11,5;4,8;10
+CB0698;C0109;2026-08-20;Campus Nord;À emporter;14 h–15 h;12,8;0,0;12,8;5,1;7
+CB0752;C0124;2026-08-20;Campus Nord;Sur place;12 h–14 h;13,8;2,0;11,8;5,1;7
+CB0780;;2026-08-20;Campus Nord;À emporter;14 h–15 h;13,3;0,0;13,3;4,5;7
+CB1005;C0356;2026-08-20;Campus Sud;Sur place;11 h–12 h;13,5;2,0;11,5;5,1;9
+CB0123;C0062;2026-08-21;Campus Nord;Sur place;12 h–14 h;13,8;2,0;11,8;5,7;10
+CB0175;C0105;2026-08-21;Campus Nord;Click & collect;12 h–14 h;14,3;2,0;12,3;4,8;9
+CB0258;C0161;2026-08-21;Centre-ville;À emporter;14 h–15 h;15,4;2,0;13,4;4,5;9
+CB0557;C0385;2026-08-21;Campus Sud;Sur place;14 h–15 h;10,0;0,0;10,0;5,7;16
+CB0704;C0011;2026-08-21;Campus Nord;Sur place;11 h–12 h;11,3;0,0;11,3;4,8;7
+CB0772;C0126;2026-08-21;Campus Nord;Click & collect;11 h–12 h;12,3;0,0;12,3;4,5;7
+CB0876;C0273;2026-08-21;Centre-ville;Sur place;14 h–15 h;12,9;0,0;12,9;5,7;17
+CB0877;C0235;2026-08-21;Centre-ville;À emporter;11 h–12 h;11,4;0,0;11,4;4,8;17
+CB0890;C0149;2026-08-21;Centre-ville;Sur place;11 h–12 h;14,9;2,0;12,9;5,1;17
+CB0061;C0031;2026-08-22;Campus Nord;À emporter;11 h–12 h;13,8;2,0;11,8;5,1;10
+CB0180;C0110;2026-08-22;Campus Nord;À emporter;14 h–15 h;12,8;0,0;12,8;5,7;9
+CB0240;C0152;2026-08-22;Centre-ville;Click & collect;14 h–15 h;11,4;0,0;11,4;4,5;10
+CB0349;C0230;2026-08-22;Centre-ville;Click & collect;14 h–15 h;15,4;2,0;13,4;4,8;16
+CB0534;C0368;2026-08-22;Campus Sud;Sur place;12 h–14 h;14,5;2,0;12,5;5,7;16
+CB0735;C0112;2026-08-22;Campus Nord;À emporter;11 h–12 h;11,8;0,0;11,8;5,4;7
+CB0873;C0193;2026-08-22;Centre-ville;À emporter;12 h–14 h;12,4;0,0;12,4;4,8;17
+CB0769;C0077;2026-08-23;Campus Nord;Sur place;11 h–12 h;12,3;2,0;10,3;5,7;7
+CB0865;C0198;2026-08-23;Centre-ville;À emporter;14 h–15 h;11,4;0,0;11,4;4,5;17
+CB0968;;2026-08-23;Centre-ville;À emporter;11 h–12 h;10,9;0,0;10,9;4,8;16
+CB0976;C0343;2026-08-23;Campus Sud;À emporter;14 h–15 h;10,5;0,0;10,5;4,5;10
+CB0259;C0161;2026-08-24;Centre-ville;Sur place;14 h–15 h;15,4;2,0;13,4;4,8;17
+CB0352;C0233;2026-08-24;Centre-ville;Sur place;14 h–15 h;13,9;2,0;11,9;4,8;13
+CB0357;C0238;2026-08-24;Centre-ville;À emporter;14 h–15 h;12,9;0,0;12,9;4,8;19
+CB0742;C0115;2026-08-24;Campus Nord;Click & collect;14 h–15 h;11,8;0,0;11,8;4,8;7
+CB0821;C0171;2026-08-24;Centre-ville;Sur place;14 h–15 h;12,4;0,0;12,4;4,8;17
+CB0910;C0186;2026-08-24;Centre-ville;À emporter;14 h–15 h;12,4;0,0;12,4;5,7;17
+CB1046;;2026-08-24;Campus Sud;Click & collect;12 h–14 h;13,0;0,0;13,0;5,4;9
+CB0171;C0101;2026-08-25;Campus Nord;À emporter;14 h–15 h;14,8;2,0;12,8;5,7;8
+CB0338;C0219;2026-08-25;Centre-ville;Sur place;14 h–15 h;12,9;0,0;12,9;5,1;17
+CB0452;C0307;2026-08-25;Campus Sud;Click & collect;12 h–14 h;10,5;0,0;10,5;4,8;6
+CB0504;C0345;2026-08-25;Campus Sud;Click & collect;14 h–15 h;14,5;2,0;12,5;4,5;7
+CB0677;C0030;2026-08-25;Campus Nord;À emporter;14 h–15 h;11,8;0,0;11,8;5,4;7
+CB0861;C0254;2026-08-25;Centre-ville;Sur place;12 h–14 h;15,9;2,0;13,9;5,7;17
+CB0062;C0031;2026-08-26;Campus Nord;Sur place;12 h–14 h;11,8;0,0;11,8;5,1;8
+CB0113;C0057;2026-08-26;Campus Nord;Click & collect;12 h–14 h;12,8;0,0;12,8;5,1;6
+CB0131;C0066;2026-08-26;Campus Nord;Sur place;12 h–14 h;12,8;0,0;12,8;4,5;6
+CB0227;C0145;2026-08-26;Centre-ville;Click & collect;14 h–15 h;13,4;0,0;13,4;5,7;17
+CB0308;C0195;2026-08-26;Centre-ville;À emporter;12 h–14 h;13,4;0,0;13,4;4,5;21
+CB0339;C0220;2026-08-26;Centre-ville;Sur place;11 h–12 h;14,4;2,0;12,4;4,5;16
+CB0535;C0368;2026-08-26;Campus Sud;Click & collect;14 h–15 h;11,5;0,0;11,5;5,1;10
+CB0748;C0011;2026-08-26;Campus Nord;Click & collect;14 h–15 h;12,8;2,0;10,8;4,8;7
+CB0891;C0205;2026-08-26;Centre-ville;À emporter;12 h–14 h;10,9;0,0;10,9;5,1;17
+CB1012;C0350;2026-08-26;Campus Sud;Sur place;14 h–15 h;11,0;0,0;11,0;5,4;9
+CB0025;C0013;2026-08-27;Campus Nord;Click & collect;14 h–15 h;13,3;2,0;11,3;5,1;6
+CB0055;C0028;2026-08-27;Campus Nord;Click & collect;14 h–15 h;11,3;0,0;11,3;5,7;8
+CB0232;C0148;2026-08-27;Centre-ville;Click & collect;11 h–12 h;14,9;2,0;12,9;5,4;10
+CB1038;;2026-08-27;Campus Sud;Sur place;14 h–15 h;12,5;0,0;12,5;4,8;9
+CB0016;C0008;2026-08-28;Campus Nord;À emporter;11 h–12 h;12,8;0,0;12,8;5,4;8
+CB0128;C0064;2026-08-28;Campus Nord;Sur place;11 h–12 h;11,3;0,0;11,3;5,1;8
+CB0414;C0288;2026-08-28;Campus Sud;Sur place;14 h–15 h;11,0;0,0;11,0;5,4;8
+CB0474;C0318;2026-08-28;Campus Sud;Sur place;14 h–15 h;14,5;2,0;12,5;5,4;5
+CB0542;C0372;2026-08-28;Campus Sud;Sur place;12 h–14 h;13,0;2,0;11,0;4,8;18
+CB0643;C0037;2026-08-28;Campus Nord;À emporter;12 h–14 h;11,8;0,0;11,8;5,7;8
+CB0681;C0054;2026-08-28;Campus Nord;Click & collect;11 h–12 h;12,3;0,0;12,3;5,1;7
+CB0750;C0103;2026-08-28;Campus Nord;Click & collect;14 h–15 h;13,3;0,0;13,3;4,8;7
+CB0869;C0243;2026-08-28;Centre-ville;À emporter;12 h–14 h;12,4;0,0;12,4;4,5;17
+CB1036;;2026-08-28;Campus Sud;À emporter;11 h–12 h;13,0;0,0;13,0;5,7;9
+CB0004;C0002;2026-08-29;Campus Nord;Sur place;12 h–14 h;13,3;0,0;13,3;5,1;8
+CB0124;C0062;2026-08-29;Campus Nord;Sur place;14 h–15 h;10,3;0,0;10,3;5,1;8
+CB0292;C0187;2026-08-29;Centre-ville;Sur place;14 h–15 h;10,9;0,0;10,9;4,8;20
+CB0306;C0194;2026-08-29;Centre-ville;Click & collect;11 h–12 h;12,4;0,0;12,4;4,8;14
+CB0516;C0357;2026-08-29;Campus Sud;Click & collect;14 h–15 h;13,0;0,0;13,0;5,7;9
+CB0765;C0128;2026-08-29;Campus Nord;Sur place;11 h–12 h;14,8;2,0;12,8;4,5;7
+CB0824;C0162;2026-08-29;Centre-ville;Sur place;12 h–14 h;13,9;2,0;11,9;4,5;17
+CB0874;C0267;2026-08-29;Centre-ville;Sur place;12 h–14 h;13,4;0,0;13,4;5,7;17
+CB0013;C0007;2026-08-30;Campus Nord;Sur place;14 h–15 h;12,8;2,0;10,8;5,7;6
+CB0187;C0117;2026-08-30;Campus Nord;Click & collect;14 h–15 h;12,3;2,0;10,3;5,7;9
+CB0335;C0216;2026-08-30;Centre-ville;Sur place;11 h–12 h;10,9;0,0;10,9;4,5;21
+CB0569;C0397;2026-08-30;Campus Sud;Sur place;14 h–15 h;12,0;2,0;10,0;5,7;14
+CB0725;C0077;2026-08-30;Campus Nord;Sur place;12 h–14 h;14,8;2,0;12,8;4,8;7
+CB0753;C0107;2026-08-30;Campus Nord;Click & collect;12 h–14 h;13,3;0,0;13,3;5,1;7
+CB0905;C0178;2026-08-30;Centre-ville;À emporter;12 h–14 h;12,4;0,0;12,4;5,1;17
+CB0944;;2026-08-30;Centre-ville;Sur place;11 h–12 h;13,9;0,0;13,9;5,4;17
+CB0249;C0156;2026-08-31;Centre-ville;Click & collect;11 h–12 h;14,9;2,0;12,9;5,7;17
+CB0371;C0252;2026-08-31;Centre-ville;À emporter;12 h–14 h;13,4;2,0;11,4;5,1;20
+CB0478;C0320;2026-08-31;Campus Sud;Sur place;11 h–12 h;11,5;0,0;11,5;5,4;6
+CB0884;C0256;2026-08-31;Centre-ville;Sur place;14 h–15 h;12,9;0,0;12,9;5,4;17
+CB0122;C0061;2026-09-01;Campus Nord;Click & collect;14 h–15 h;12,3;2,0;10,3;5,4;8
+CB0307;C0194;2026-09-01;Centre-ville;À emporter;14 h–15 h;12,4;0,0;12,4;5,1;17
+CB0665;C0021;2026-09-01;Campus Nord;À emporter;14 h–15 h;12,3;0,0;12,3;4,8;8
+CB0686;C0049;2026-09-01;Campus Nord;À emporter;12 h–14 h;10,3;0,0;10,3;5,1;7
+CB0770;C0133;2026-09-01;Campus Nord;Click & collect;12 h–14 h;13,3;0,0;13,3;4,8;7
+CB1018;C0381;2026-09-01;Campus Sud;Click & collect;11 h–12 h;10,0;0,0;10,0;5,1;9
+CB0056;C0028;2026-09-02;Campus Nord;Sur place;14 h–15 h;15,3;2,0;13,3;5,4;8
+CB0114;C0057;2026-09-02;Campus Nord;Sur place;14 h–15 h;12,8;2,0;10,8;5,1;8
+CB0303;C0192;2026-09-02;Centre-ville;Click & collect;14 h–15 h;12,9;0,0;12,9;5,7;17
+CB0309;C0195;2026-09-02;Centre-ville;Click & collect;11 h–12 h;11,9;0,0;11,9;5,1;17
+CB0638;C0116;2026-09-02;Campus Nord;À emporter;11 h–12 h;13,3;0,0;13,3;5,7;8
+CB0762;C0126;2026-09-02;Campus Nord;À emporter;12 h–14 h;12,8;2,0;10,8;4,5;7
+CB0764;C0065;2026-09-02;Campus Nord;Sur place;11 h–12 h;11,3;0,0;11,3;5,7;7
+CB0839;C0203;2026-09-02;Centre-ville;Click & collect;11 h–12 h;13,4;2,0;11,4;5,1;17
+CB0856;C0262;2026-09-02;Centre-ville;Sur place;12 h–14 h;13,4;0,0;13,4;5,1;17
+CB0908;C0273;2026-09-02;Centre-ville;Click & collect;12 h–14 h;13,4;2,0;11,4;5,1;17
+CB0929;C0201;2026-09-02;Centre-ville;Click & collect;14 h–15 h;12,9;2,0;10,9;5,7;17
+CB0987;C0289;2026-09-02;Campus Sud;Sur place;14 h–15 h;12,5;0,0;12,5;5,1;9
+CB1030;C0324;2026-09-02;Campus Sud;À emporter;14 h–15 h;11,5;0,0;11,5;5,4;9
+CB0653;C0016;2026-09-03;Campus Nord;Sur place;14 h–15 h;11,8;0,0;11,8;5,1;8
+CB0658;C0047;2026-09-03;Campus Nord;Click & collect;14 h–15 h;13,8;2,0;11,8;5,7;8
+CB0755;C0126;2026-09-03;Campus Nord;À emporter;11 h–12 h;10,8;0,0;10,8;5,4;7
+CB0894;C0190;2026-09-03;Centre-ville;À emporter;12 h–14 h;12,9;0,0;12,9;4,5;17
+CB0132;C0066;2026-09-04;Campus Nord;Sur place;11 h–12 h;10,8;0,0;10,8;4,5;8
+CB0649;C0081;2026-09-04;Campus Nord;Sur place;14 h–15 h;13,3;0,0;13,3;4,8;8
+CB0659;C0074;2026-09-04;Campus Nord;Click & collect;12 h–14 h;14,3;2,0;12,3;4,8;8
+CB0718;C0092;2026-09-04;Campus Nord;Click & collect;11 h–12 h;13,3;0,0;13,3;5,1;7
+CB0763;C0096;2026-09-04;Campus Nord;Sur place;14 h–15 h;11,8;0,0;11,8;5,1;7
+CB0844;C0261;2026-09-04;Centre-ville;Click & collect;11 h–12 h;12,9;0,0;12,9;5,7;17
+CB0851;C0273;2026-09-04;Centre-ville;Sur place;11 h–12 h;12,4;0,0;12,4;4,5;17
+CB0902;C0250;2026-09-04;Centre-ville;À emporter;11 h–12 h;13,4;0,0;13,4;4,8;17
+CB0938;C0201;2026-09-04;Centre-ville;Click & collect;14 h–15 h;13,4;2,0;11,4;4,5;17
+CB1009;C0349;2026-09-04;Campus Sud;Sur place;11 h–12 h;14,5;2,0;12,5;5,1;9
+CB1019;C0314;2026-09-04;Campus Sud;Click & collect;14 h–15 h;11,0;0,0;11,0;5,1;9
+CB1059;;2026-09-04;Campus Sud;À emporter;11 h–12 h;11,0;0,0;11,0;5,7;9
+CB0026;C0013;2026-09-05;Campus Nord;Click & collect;14 h–15 h;11,3;0,0;11,3;4,5;8
+CB0573;C0401;2026-09-05;Campus Nord;À emporter;14 h–15 h;10,8;0,0;10,8;5,4;8
+CB0593;C0421;2026-09-05;Centre-ville;À emporter;14 h–15 h;13,9;0,0;13,9;5,7;16
+CB0613;C0441;2026-09-05;Campus Sud;Click & collect;11 h–12 h;11,5;0,0;11,5;5,1;10
+CB0670;C0029;2026-09-05;Campus Nord;Sur place;11 h–12 h;10,3;0,0;10,3;4,8;8
+CB0794;;2026-09-05;Campus Nord;À emporter;12 h–14 h;10,3;0,0;10,3;5,1;7
+CB0863;C0176;2026-09-05;Centre-ville;À emporter;11 h–12 h;12,9;2,0;10,9;5,4;17
+CB0419;C0290;2026-09-06;Campus Sud;Click & collect;12 h–14 h;11,0;0,0;11,0;4,8;10
+CB0543;C0372;2026-09-06;Campus Sud;Click & collect;12 h–14 h;10,5;0,0;10,5;5,1;10
+CB0574;C0402;2026-09-06;Campus Nord;Sur place;11 h–12 h;12,8;2,0;10,8;5,7;8
+CB0594;C0422;2026-09-06;Centre-ville;Click & collect;14 h–15 h;13,4;2,0;11,4;5,1;16
+CB0614;C0442;2026-09-06;Campus Sud;Click & collect;12 h–14 h;14,0;2,0;12,0;5,4;10
+CB0675;C0116;2026-09-06;Campus Nord;Sur place;12 h–14 h;14,3;2,0;12,3;5,7;7
+CB0864;C0212;2026-09-06;Centre-ville;À emporter;11 h–12 h;15,9;2,0;13,9;5,4;17
+CB0943;;2026-09-06;Centre-ville;Click & collect;12 h–14 h;14,4;2,0;12,4;4,5;17
+CB0979;C0386;2026-09-06;Campus Sud;Click & collect;12 h–14 h;10,5;0,0;10,5;5,4;10
+CB1015;C0396;2026-09-06;Campus Sud;Sur place;12 h–14 h;12,0;0,0;12,0;4,8;9
+CB0575;C0403;2026-09-07;Campus Nord;Sur place;14 h–15 h;11,3;0,0;11,3;4,5;8
+CB0595;C0423;2026-09-07;Centre-ville;Sur place;12 h–14 h;12,4;0,0;12,4;4,5;16
+CB0615;C0443;2026-09-07;Campus Sud;Click & collect;14 h–15 h;13,0;0,0;13,0;5,7;10
+CB0679;C0102;2026-09-07;Campus Nord;Click & collect;14 h–15 h;11,8;0,0;11,8;5,1;7
+CB0692;C0080;2026-09-07;Campus Nord;Sur place;11 h–12 h;10,8;0,0;10,8;5,4;7
+CB0875;C0190;2026-09-07;Centre-ville;Click & collect;11 h–12 h;12,4;0,0;12,4;5,1;17
+CB0898;C0155;2026-09-07;Centre-ville;À emporter;11 h–12 h;13,9;0,0;13,9;4,8;17
+CB0917;C0234;2026-09-07;Centre-ville;Sur place;12 h–14 h;11,4;0,0;11,4;4,8;17
+CB0919;C0273;2026-09-07;Centre-ville;Click & collect;11 h–12 h;12,9;0,0;12,9;5,1;17
+CB1033;C0398;2026-09-07;Campus Sud;Sur place;12 h–14 h;13,0;0,0;13,0;4,8;9
+CB0100;C0050;2026-09-08;Campus Nord;Sur place;14 h–15 h;10,3;0,0;10,3;5,1;8
+CB0576;C0404;2026-09-08;Campus Nord;Click & collect;14 h–15 h;15,3;2,0;13,3;4,5;8
+CB0596;C0424;2026-09-08;Centre-ville;Click & collect;11 h–12 h;15,4;2,0;13,4;4,8;16
+CB0616;C0444;2026-09-08;Campus Sud;Sur place;11 h–12 h;14,0;2,0;12,0;4,8;10
+CB0730;C0137;2026-09-08;Campus Nord;Sur place;14 h–15 h;13,3;0,0;13,3;4,8;7
+CB0829;C0266;2026-09-08;Centre-ville;Click & collect;11 h–12 h;11,4;0,0;11,4;5,4;17
+CB0840;C0249;2026-09-08;Centre-ville;Click & collect;11 h–12 h;11,9;0,0;11,9;5,4;17
+CB0845;C0203;2026-09-08;Centre-ville;Click & collect;12 h–14 h;13,4;0,0;13,4;5,4;17
+CB0911;C0205;2026-09-08;Centre-ville;Click & collect;11 h–12 h;11,4;0,0;11,4;5,1;17
+CB1007;C0359;2026-09-08;Campus Sud;Click & collect;12 h–14 h;10,0;0,0;10,0;4,8;9
+CB1039;;2026-09-08;Campus Sud;Click & collect;12 h–14 h;14,5;2,0;12,5;4,8;9
+CB0577;C0405;2026-09-09;Campus Nord;Sur place;14 h–15 h;13,3;0,0;13,3;5,1;8
+CB0597;C0425;2026-09-09;Centre-ville;À emporter;14 h–15 h;12,4;0,0;12,4;4,8;16
+CB0617;C0445;2026-09-09;Campus Sud;À emporter;11 h–12 h;12,5;0,0;12,5;4,8;10
+CB0650;C0094;2026-09-09;Campus Nord;À emporter;11 h–12 h;11,8;0,0;11,8;5,7;8
+CB0651;C0120;2026-09-09;Campus Nord;Sur place;12 h–14 h;12,3;0,0;12,3;4,8;8
+CB0886;C0180;2026-09-09;Centre-ville;À emporter;11 h–12 h;11,4;0,0;11,4;5,4;17
+CB0896;C0146;2026-09-09;Centre-ville;À emporter;14 h–15 h;13,9;0,0;13,9;4,8;17
+CB0978;C0395;2026-09-09;Campus Sud;Click & collect;14 h–15 h;13,0;0,0;13,0;4,5;10
+CB0237;C0150;2026-09-10;Centre-ville;Click & collect;14 h–15 h;14,4;2,0;12,4;4,8;17
+CB0578;C0406;2026-09-10;Campus Nord;À emporter;12 h–14 h;14,3;2,0;12,3;5,1;8
+CB0598;C0426;2026-09-10;Centre-ville;À emporter;11 h–12 h;14,4;2,0;12,4;5,1;16
+CB0618;C0446;2026-09-10;Campus Sud;À emporter;14 h–15 h;13,0;2,0;11,0;5,1;10
+CB0756;C0120;2026-09-10;Campus Nord;À emporter;14 h–15 h;11,3;0,0;11,3;5,1;7
+CB0768;C0047;2026-09-10;Campus Nord;Click & collect;11 h–12 h;11,8;0,0;11,8;5,1;7
+CB0773;C0035;2026-09-10;Campus Nord;Sur place;11 h–12 h;13,8;2,0;11,8;4,8;7
+CB0870;C0257;2026-09-10;Centre-ville;Sur place;14 h–15 h;11,4;0,0;11,4;5,7;17
+CB0239;C0151;2026-09-11;Centre-ville;Click & collect;11 h–12 h;14,9;2,0;12,9;4,5;17
+CB0241;C0152;2026-09-11;Centre-ville;À emporter;12 h–14 h;11,9;0,0;11,9;5,4;17
+CB0579;C0407;2026-09-11;Campus Nord;À emporter;12 h–14 h;12,3;0,0;12,3;5,4;8
+CB0599;C0427;2026-09-11;Centre-ville;Sur place;11 h–12 h;12,4;0,0;12,4;5,1;16
+CB0619;C0447;2026-09-11;Campus Sud;Click & collect;14 h–15 h;10,0;0,0;10,0;4,8;10
+CB0634;C0135;2026-09-11;Campus Nord;À emporter;12 h–14 h;13,3;0,0;13,3;5,1;8
+CB0636;C0046;2026-09-11;Campus Nord;À emporter;11 h–12 h;10,8;0,0;10,8;4,8;8
+CB0740;C0048;2026-09-11;Campus Nord;Click & collect;11 h–12 h;10,8;0,0;10,8;4,5;7
+CB0826;C0166;2026-09-11;Centre-ville;À emporter;12 h–14 h;12,4;0,0;12,4;4,5;17
+CB0838;C0257;2026-09-11;Centre-ville;À emporter;11 h–12 h;11,9;0,0;11,9;4,5;17
+CB0866;C0154;2026-09-11;Centre-ville;Click & collect;14 h–15 h;11,4;0,0;11,4;5,4;17
+CB0872;C0168;2026-09-11;Centre-ville;Sur place;12 h–14 h;12,9;2,0;10,9;4,5;17
+CB0900;C0193;2026-09-11;Centre-ville;Sur place;11 h–12 h;12,4;0,0;12,4;4,5;17
+CB0997;C0302;2026-09-11;Campus Sud;Click & collect;12 h–14 h;13,5;2,0;11,5;4,5;9
+CB1004;C0386;2026-09-11;Campus Sud;Click & collect;12 h–14 h;12,5;0,0;12,5;5,1;9
+CB0580;C0408;2026-09-12;Campus Nord;Click & collect;14 h–15 h;14,8;2,0;12,8;5,1;8
+CB0600;C0428;2026-09-12;Centre-ville;Sur place;12 h–14 h;13,4;2,0;11,4;5,7;16
+CB0620;C0448;2026-09-12;Campus Sud;Sur place;12 h–14 h;12,0;2,0;10,0;4,5;10
+CB0688;C0077;2026-09-12;Campus Nord;Click & collect;11 h–12 h;12,8;2,0;10,8;4,8;7
+CB0737;C0055;2026-09-12;Campus Nord;Click & collect;14 h–15 h;12,8;0,0;12,8;5,7;7
+CB0751;C0014;2026-09-12;Campus Nord;À emporter;11 h–12 h;13,3;0,0;13,3;4,8;7
+CB0766;C0079;2026-09-12;Campus Nord;Click & collect;14 h–15 h;12,8;2,0;10,8;5,7;7
+CB0974;C0314;2026-09-12;Campus Sud;Click & collect;11 h–12 h;12,5;2,0;10,5;4,5;10
+CB0581;C0409;2026-09-13;Campus Nord;Click & collect;11 h–12 h;10,3;0,0;10,3;4,8;8
+CB0601;C0429;2026-09-13;Centre-ville;Sur place;12 h–14 h;11,4;0,0;11,4;5,7;16
+CB0621;C0449;2026-09-13;Campus Sud;À emporter;12 h–14 h;11,5;0,0;11,5;4,5;10
+CB0657;C0126;2026-09-13;Campus Nord;À emporter;14 h–15 h;12,8;2,0;10,8;4,5;8
+CB0697;C0072;2026-09-13;Campus Nord;Click & collect;12 h–14 h;13,3;0,0;13,3;5,1;7
+CB0709;C0109;2026-09-13;Campus Nord;Sur place;11 h–12 h;12,3;2,0;10,3;5,4;7
+CB0732;C0016;2026-09-13;Campus Nord;Click & collect;14 h–15 h;11,3;0,0;11,3;5,4;7
+CB0867;C0231;2026-09-13;Centre-ville;Sur place;12 h–14 h;13,4;0,0;13,4;5,7;17
+CB1002;C0373;2026-09-13;Campus Sud;Click & collect;14 h–15 h;12,5;2,0;10,5;5,7;9
+CB0582;C0410;2026-09-14;Campus Nord;Click & collect;12 h–14 h;13,8;2,0;11,8;5,4;8
+CB0602;C0430;2026-09-14;Centre-ville;Sur place;12 h–14 h;15,4;2,0;13,4;5,1;16
+CB0622;C0450;2026-09-14;Campus Sud;Sur place;11 h–12 h;12,5;2,0;10,5;5,7;10
+CB0646;C0027;2026-09-14;Campus Nord;Click & collect;12 h–14 h;10,3;0,0;10,3;5,1;8
+CB0712;C0002;2026-09-14;Campus Nord;Click & collect;14 h–15 h;11,8;0,0;11,8;5,4;7
+CB0715;C0070;2026-09-14;Campus Nord;Click & collect;14 h–15 h;13,8;2,0;11,8;5,1;7
+CB0745;C0047;2026-09-14;Campus Nord;Sur place;12 h–14 h;11,3;0,0;11,3;5,4;7
+CB0868;C0204;2026-09-14;Centre-ville;À emporter;11 h–12 h;15,4;2,0;13,4;5,7;17
+CB0918;C0143;2026-09-14;Centre-ville;Click & collect;11 h–12 h;12,4;0,0;12,4;4,5;17
+CB0939;;2026-09-14;Centre-ville;Sur place;12 h–14 h;12,9;2,0;10,9;4,8;17
+CB0988;C0399;2026-09-14;Campus Sud;Click & collect;12 h–14 h;13,0;0,0;13,0;5,1;9
+CB0993;C0388;2026-09-14;Campus Sud;Click & collect;11 h–12 h;14,5;2,0;12,5;5,1;9
+CB0293;C0187;2026-09-15;Centre-ville;À emporter;12 h–14 h;13,9;0,0;13,9;5,4;17
+CB0583;C0411;2026-09-15;Campus Nord;À emporter;14 h–15 h;11,3;0,0;11,3;5,1;8
+CB0603;C0431;2026-09-15;Centre-ville;Click & collect;12 h–14 h;10,9;0,0;10,9;5,7;16
+CB0623;C0451;2026-09-15;Campus Sud;Click & collect;12 h–14 h;12,5;0,0;12,5;5,1;10
+CB0744;C0131;2026-09-15;Campus Nord;Click & collect;12 h–14 h;14,8;2,0;12,8;5,1;7
+CB0771;C0051;2026-09-15;Campus Nord;Click & collect;11 h–12 h;11,8;0,0;11,8;4,5;7
+CB0808;;2026-09-15;Campus Nord;Click & collect;12 h–14 h;11,3;0,0;11,3;5,1;7
+CB0871;C0253;2026-09-15;Centre-ville;Click & collect;12 h–14 h;11,9;0,0;11,9;4,8;17
+CB0904;C0207;2026-09-15;Centre-ville;Sur place;11 h–12 h;14,4;2,0;12,4;5,1;17
+CB0985;C0328;2026-09-15;Campus Sud;Click & collect;14 h–15 h;13,5;2,0;11,5;5,7;10
+CB1029;C0317;2026-09-15;Campus Sud;Sur place;14 h–15 h;15,0;2,0;13,0;4,5;9
+CB0584;C0412;2026-09-16;Campus Nord;À emporter;12 h–14 h;12,8;2,0;10,8;5,4;8
+CB0604;C0432;2026-09-16;Centre-ville;À emporter;14 h–15 h;14,9;2,0;12,9;4,8;16
+CB0624;C0452;2026-09-16;Campus Sud;À emporter;11 h–12 h;14,0;2,0;12,0;5,1;10
+CB0669;C0107;2026-09-16;Campus Nord;À emporter;14 h–15 h;11,8;0,0;11,8;5,4;8
+CB0685;C0027;2026-09-16;Campus Nord;Sur place;12 h–14 h;12,8;0,0;12,8;5,1;7
+CB0746;C0037;2026-09-16;Campus Nord;Sur place;14 h–15 h;11,3;0,0;11,3;4,8;7
+CB0814;;2026-09-16;Campus Nord;Sur place;11 h–12 h;10,3;0,0;10,3;5,1;7
+CB0901;C0163;2026-09-16;Centre-ville;Sur place;14 h–15 h;13,4;0,0;13,4;4,8;17
+CB0935;C0276;2026-09-16;Centre-ville;À emporter;11 h–12 h;10,9;0,0;10,9;4,8;17
+CB0936;C0203;2026-09-16;Centre-ville;Click & collect;14 h–15 h;11,9;0,0;11,9;5,1;17
+CB1024;C0311;2026-09-16;Campus Sud;Sur place;12 h–14 h;12,0;0,0;12,0;5,7;9
+CB0475;C0318;2026-09-17;Campus Sud;À emporter;11 h–12 h;12,0;0,0;12,0;4,8;10
+CB0585;C0413;2026-09-17;Campus Nord;À emporter;12 h–14 h;11,3;0,0;11,3;5,4;8
+CB0605;C0433;2026-09-17;Centre-ville;Sur place;12 h–14 h;11,9;0,0;11,9;4,8;16
+CB0625;C0453;2026-09-17;Campus Sud;Click & collect;11 h–12 h;12,5;0,0;12,5;5,7;10
+CB0667;C0077;2026-09-17;Campus Nord;Sur place;12 h–14 h;12,8;0,0;12,8;5,4;8
+CB0684;C0080;2026-09-17;Campus Nord;À emporter;14 h–15 h;10,3;0,0;10,3;4,5;7
+CB0706;C0083;2026-09-17;Campus Nord;Click & collect;12 h–14 h;10,3;0,0;10,3;4,8;7
+CB0724;C0017;2026-09-17;Campus Nord;À emporter;14 h–15 h;11,8;0,0;11,8;5,4;7
+CB0760;C0024;2026-09-17;Campus Nord;Click & collect;12 h–14 h;12,3;0,0;12,3;4,5;7
+CB0889;C0185;2026-09-17;Centre-ville;Sur place;14 h–15 h;14,9;2,0;12,9;5,4;17
+CB0933;C0209;2026-09-17;Centre-ville;À emporter;11 h–12 h;13,4;0,0;13,4;5,7;17
+CB0986;C0356;2026-09-17;Campus Sud;Click & collect;12 h–14 h;13,0;0,0;13,0;4,5;10
+CB0586;C0414;2026-09-18;Campus Nord;À emporter;11 h–12 h;12,3;2,0;10,3;5,4;8
+CB0606;C0434;2026-09-18;Centre-ville;Sur place;14 h–15 h;15,4;2,0;13,4;5,4;16
+CB0626;C0454;2026-09-18;Campus Sud;Click & collect;12 h–14 h;13,0;2,0;11,0;4,8;10
+CB0837;C0176;2026-09-18;Centre-ville;À emporter;14 h–15 h;12,9;0,0;12,9;5,7;17
+CB0841;C0257;2026-09-18;Centre-ville;À emporter;12 h–14 h;12,4;0,0;12,4;5,1;17
+CB0916;C0274;2026-09-18;Centre-ville;À emporter;11 h–12 h;13,4;0,0;13,4;4,5;17
+CB0925;C0178;2026-09-18;Centre-ville;Sur place;12 h–14 h;15,4;2,0;13,4;5,1;17
+CB0946;;2026-09-18;Centre-ville;Click & collect;11 h–12 h;10,9;0,0;10,9;5,7;17
+CB0998;C0306;2026-09-18;Campus Sud;À emporter;12 h–14 h;11,5;0,0;11,5;4,5;9
+CB0587;C0415;2026-09-19;Campus Nord;Sur place;14 h–15 h;10,8;0,0;10,8;4,8;8
+CB0607;C0435;2026-09-19;Centre-ville;Click & collect;12 h–14 h;13,9;0,0;13,9;4,5;16
+CB0627;C0455;2026-09-19;Campus Sud;Sur place;14 h–15 h;11,5;0,0;11,5;5,1;10
+CB0654;C0102;2026-09-19;Campus Nord;À emporter;14 h–15 h;10,8;0,0;10,8;5,4;8
+CB0673;C0024;2026-09-19;Campus Nord;À emporter;11 h–12 h;13,3;0,0;13,3;4,8;8
+CB0819;C0143;2026-09-19;Centre-ville;Sur place;14 h–15 h;13,9;0,0;13,9;5,7;17
+CB0842;C0260;2026-09-19;Centre-ville;Sur place;12 h–14 h;12,4;0,0;12,4;5,1;17
+CB0887;C0188;2026-09-19;Centre-ville;Sur place;14 h–15 h;12,4;0,0;12,4;5,7;17
+CB0895;C0185;2026-09-19;Centre-ville;Click & collect;14 h–15 h;12,9;0,0;12,9;5,4;17
+CB0453;C0307;2026-09-20;Campus Sud;Click & collect;11 h–12 h;12,0;0,0;12,0;5,1;10
+CB0588;C0416;2026-09-20;Campus Nord;Click & collect;12 h–14 h;14,3;2,0;12,3;5,4;8
+CB0608;C0436;2026-09-20;Centre-ville;À emporter;14 h–15 h;15,4;2,0;13,4;4,5;16
+CB0628;C0456;2026-09-20;Campus Sud;Click & collect;12 h–14 h;14,5;2,0;12,5;5,4;10
+CB0668;C0060;2026-09-20;Campus Nord;À emporter;11 h–12 h;10,8;0,0;10,8;5,7;8
+CB0731;C0069;2026-09-20;Campus Nord;Sur place;14 h–15 h;12,3;0,0;12,3;5,7;7
+CB0818;C0154;2026-09-20;Centre-ville;Click & collect;11 h–12 h;13,4;2,0;11,4;5,7;17
+CB0854;C0177;2026-09-20;Centre-ville;À emporter;11 h–12 h;11,9;0,0;11,9;4,8;17
+CB0907;C0257;2026-09-20;Centre-ville;À emporter;12 h–14 h;12,9;0,0;12,9;4,8;17
+CB0926;C0234;2026-09-20;Centre-ville;À emporter;11 h–12 h;12,4;0,0;12,4;4,5;17
+CB0233;C0148;2026-09-21;Centre-ville;Click & collect;14 h–15 h;15,9;2,0;13,9;5,7;17
+CB0589;C0417;2026-09-21;Campus Nord;Sur place;11 h–12 h;10,3;0,0;10,3;5,4;8
+CB0609;C0437;2026-09-21;Centre-ville;Sur place;12 h–14 h;12,9;0,0;12,9;5,1;16
+CB0629;C0457;2026-09-21;Campus Sud;Click & collect;14 h–15 h;13,0;0,0;13,0;4,8;10
+CB0637;C0051;2026-09-21;Campus Nord;À emporter;12 h–14 h;14,3;2,0;12,3;5,7;8
+CB0680;C0130;2026-09-21;Campus Nord;Click & collect;11 h–12 h;10,8;0,0;10,8;5,4;7
+CB0719;C0039;2026-09-21;Campus Nord;Sur place;14 h–15 h;13,3;0,0;13,3;5,7;7
+CB0723;C0048;2026-09-21;Campus Nord;Click & collect;11 h–12 h;10,8;0,0;10,8;4,8;7
+CB0774;C0033;2026-09-21;Campus Nord;À emporter;14 h–15 h;11,3;0,0;11,3;4,5;7
+CB0827;C0170;2026-09-21;Centre-ville;Click & collect;14 h–15 h;13,9;0,0;13,9;5,7;17
+CB0830;C0260;2026-09-21;Centre-ville;Click & collect;14 h–15 h;14,4;2,0;12,4;5,7;17
+CB0859;C0270;2026-09-21;Centre-ville;Click & collect;14 h–15 h;13,9;0,0;13,9;4,8;17
+CB0860;C0170;2026-09-21;Centre-ville;Sur place;12 h–14 h;10,9;0,0;10,9;4,5;17
+CB0862;C0271;2026-09-21;Centre-ville;Sur place;11 h–12 h;15,4;2,0;13,4;5,7;17
+CB0893;C0169;2026-09-21;Centre-ville;Click & collect;12 h–14 h;12,9;0,0;12,9;5,1;17
+CB0977;C0366;2026-09-21;Campus Sud;Click & collect;12 h–14 h;10,0;0,0;10,0;4,8;10
+CB0590;C0418;2026-09-22;Campus Nord;À emporter;11 h–12 h;12,3;2,0;10,3;5,4;8
+CB0610;C0438;2026-09-22;Centre-ville;À emporter;11 h–12 h;14,4;2,0;12,4;5,1;16
+CB0630;C0458;2026-09-22;Campus Sud;À emporter;11 h–12 h;13,0;2,0;11,0;5,4;10
+CB0687;C0036;2026-09-22;Campus Nord;Click & collect;12 h–14 h;13,3;0,0;13,3;5,1;7
+CB0743;C0016;2026-09-22;Campus Nord;Sur place;11 h–12 h;11,3;0,0;11,3;4,5;7
+CB0878;C0217;2026-09-22;Centre-ville;À emporter;14 h–15 h;13,4;2,0;11,4;5,4;17
+CB0899;C0221;2026-09-22;Centre-ville;À emporter;14 h–15 h;12,9;2,0;10,9;5,1;17
+CB0920;C0211;2026-09-22;Centre-ville;Click & collect;12 h–14 h;12,4;0,0;12,4;5,7;17
+CB1025;C0327;2026-09-22;Campus Sud;Sur place;12 h–14 h;10,5;0,0;10,5;5,4;9
+CB0591;C0419;2026-09-23;Campus Nord;À emporter;12 h–14 h;10,3;0,0;10,3;4,5;8
+CB0611;C0439;2026-09-23;Centre-ville;Click & collect;11 h–12 h;13,4;0,0;13,4;5,1;16
+CB0631;C0459;2026-09-23;Campus Sud;Click & collect;14 h–15 h;11,5;0,0;11,5;5,7;10
+CB0641;C0073;2026-09-23;Campus Nord;Click & collect;12 h–14 h;13,3;2,0;11,3;5,1;8
+CB0834;C0268;2026-09-23;Centre-ville;Click & collect;14 h–15 h;12,4;0,0;12,4;5,1;17
+CB0848;C0250;2026-09-23;Centre-ville;À emporter;12 h–14 h;12,9;2,0;10,9;5,1;17
+CB0849;C0202;2026-09-23;Centre-ville;Click & collect;11 h–12 h;12,4;0,0;12,4;5,7;17
+CB0857;C0171;2026-09-23;Centre-ville;Click & collect;12 h–14 h;11,9;0,0;11,9;5,1;17
+CB0880;C0166;2026-09-23;Centre-ville;Sur place;14 h–15 h;11,9;0,0;11,9;4,8;17
+CB0592;C0420;2026-09-24;Campus Nord;À emporter;11 h–12 h;13,3;2,0;11,3;5,4;8
+CB0612;C0440;2026-09-24;Centre-ville;Click & collect;14 h–15 h;14,9;2,0;12,9;5,4;16
+CB0632;C0460;2026-09-24;Campus Sud;À emporter;11 h–12 h;12,5;2,0;10,5;5,1;10
+CB0676;C0010;2026-09-24;Campus Nord;Sur place;14 h–15 h;14,8;2,0;12,8;5,4;7
+CB0689;C0055;2026-09-24;Campus Nord;À emporter;11 h–12 h;13,3;0,0;13,3;5,7;7
+CB0691;C0092;2026-09-24;Campus Nord;Click & collect;14 h–15 h;11,8;0,0;11,8;5,7;7
+CB0717;C0092;2026-09-24;Campus Nord;Sur place;12 h–14 h;13,3;0,0;13,3;5,1;7
+CB0739;C0112;2026-09-24;Campus Nord;À emporter;14 h–15 h;13,3;0,0;13,3;5,4;7
+CB1020;C0378;2026-09-24;Campus Sud;Click & collect;11 h–12 h;12,0;0,0;12,0;4,8;9
+CB0415;C0288;2026-09-25;Campus Sud;Sur place;14 h–15 h;10,5;0,0;10,5;4,5;10
+CB0639;C0108;2026-09-25;Campus Nord;Click & collect;14 h–15 h;10,8;0,0;10,8;5,4;8
+CB0662;C0082;2026-09-25;Campus Nord;Sur place;14 h–15 h;10,3;0,0;10,3;5,4;8
+CB0816;C0268;2026-09-25;Centre-ville;Click & collect;12 h–14 h;15,4;2,0;13,4;4,8;17
+CB0817;C0163;2026-09-25;Centre-ville;Click & collect;14 h–15 h;12,4;0,0;12,4;5,7;17
+CB0885;C0169;2026-09-25;Centre-ville;Click & collect;11 h–12 h;10,9;0,0;10,9;4,5;17
+CB0930;C0222;2026-09-25;Centre-ville;À emporter;12 h–14 h;13,9;0,0;13,9;4,5;17
+CB1011;C0344;2026-09-25;Campus Sud;À emporter;14 h–15 h;12,5;0,0;12,5;4,5;9
+CB0479;C0320;2026-09-26;Campus Sud;À emporter;12 h–14 h;13,5;2,0;11,5;5,4;10
+CB0696;C0088;2026-09-26;Campus Nord;Click & collect;12 h–14 h;10,3;0,0;10,3;5,1;7
+CB0729;C0129;2026-09-26;Campus Nord;Click & collect;11 h–12 h;12,8;2,0;10,8;5,1;7
+CB0767;C0050;2026-09-26;Campus Nord;Click & collect;14 h–15 h;14,8;2,0;12,8;5,1;7
+CB0883;C0268;2026-09-26;Centre-ville;À emporter;14 h–15 h;11,9;0,0;11,9;4,5;17
+CB0897;C0176;2026-09-26;Centre-ville;À emporter;14 h–15 h;13,9;0,0;13,9;5,7;17
+CB1016;C0295;2026-09-26;Campus Sud;Click & collect;11 h–12 h;12,0;0,0;12,0;5,1;9
+CB1058;;2026-09-26;Campus Sud;À emporter;14 h–15 h;12,5;2,0;10,5;4,8;9
+CB0014;C0007;2026-09-27;Campus Nord;Click & collect;14 h–15 h;10,3;0,0;10,3;4,5;8
+CB0694;C0009;2026-09-27;Campus Nord;Click & collect;11 h–12 h;13,3;0,0;13,3;5,7;7
+CB0791;;2026-09-27;Campus Nord;À emporter;14 h–15 h;12,8;2,0;10,8;4,5;7
+CB0820;C0264;2026-09-27;Centre-ville;Sur place;12 h–14 h;11,4;0,0;11,4;4,8;17
+CB0923;C0227;2026-09-27;Centre-ville;Click & collect;14 h–15 h;10,9;0,0;10,9;4,8;17
+CB0928;C0214;2026-09-27;Centre-ville;Click & collect;12 h–14 h;11,4;0,0;11,4;5,1;17
+CB0702;C0050;2026-09-28;Campus Nord;À emporter;12 h–14 h;13,3;0,0;13,3;4,8;7
+CB0823;C0169;2026-09-28;Centre-ville;À emporter;12 h–14 h;11,9;0,0;11,9;5,1;17
+CB0945;;2026-09-28;Centre-ville;Sur place;14 h–15 h;13,9;0,0;13,9;5,1;17
+CB1021;C0334;2026-09-28;Campus Sud;Sur place;12 h–14 h;14,5;2,0;12,5;5,1;9
+CB1035;C0294;2026-09-28;Campus Sud;Sur place;11 h–12 h;12,5;0,0;12,5;4,8;9
+CB0640;C0129;2026-09-29;Campus Nord;Click & collect;11 h–12 h;13,3;0,0;13,3;5,7;8
+CB0663;C0014;2026-09-29;Campus Nord;À emporter;14 h–15 h;12,8;0,0;12,8;4,8;8
+CB0674;C0120;2026-09-29;Campus Nord;À emporter;14 h–15 h;10,3;0,0;10,3;5,4;8
+CB0825;C0143;2026-09-29;Centre-ville;Click & collect;14 h–15 h;12,9;0,0;12,9;5,1;17
+CB0847;C0276;2026-09-29;Centre-ville;Sur place;11 h–12 h;13,4;0,0;13,4;5,7;17
+CB0858;C0274;2026-09-29;Centre-ville;Click & collect;12 h–14 h;10,9;0,0;10,9;5,4;17
+CB0913;C0259;2026-09-29;Centre-ville;Click & collect;11 h–12 h;13,9;0,0;13,9;4,8;17
+CB1032;C0369;2026-09-29;Campus Sud;À emporter;11 h–12 h;10,5;0,0;10,5;5,4;9
+CB1055;;2026-09-29;Campus Sud;À emporter;11 h–12 h;12,0;0,0;12,0;5,1;9
+CB0664;C0040;2026-09-30;Campus Nord;Sur place;11 h–12 h;15,3;2,0;13,3;5,4;8
+CB0705;C0050;2026-09-30;Campus Nord;À emporter;11 h–12 h;12,3;0,0;12,3;5,1;7
+CB0775;C0050;2026-09-30;Campus Nord;Click & collect;12 h–14 h;15,3;2,0;13,3;5,4;7
+CB0906;C0280;2026-09-30;Centre-ville;Sur place;11 h–12 h;13,4;0,0;13,4;4,8;17
+CB0980;C0310;2026-09-30;Campus Sud;Sur place;14 h–15 h;13,5;2,0;11,5;5,4;10
+CB1010;C0359;2026-09-30;Campus Sud;À emporter;11 h–12 h;11,5;0,0;11,5;4,8;9
+CB1023;C0387;2026-09-30;Campus Sud;Sur place;11 h–12 h;12,0;0,0;12,0;4,5;9
